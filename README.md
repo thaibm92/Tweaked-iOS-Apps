@@ -336,7 +336,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 - [und3fined](https://und3fined.com) for [Decrypt IPA](https://ipa.decrypt.day). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/und3fined).
 
 
-- [qnblackcat](https://github.com/qnblackcat/) for [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix) and [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs). Couldn't find any links to support them, will update if I do.
+- [qnblackcat](https://github.com/qnblackcat/) for [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix) and [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs). Support the developer via [PayPal](https://www.paypal.com/paypalme/qnblackcat).
 
 
 - All jailbreak developers and community for making all this possible.
