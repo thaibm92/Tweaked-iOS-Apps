@@ -87,8 +87,6 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 **Note:** Using [opa334](https://github.com/opa334)'s [IGSideloadFix](https://github.com/opa334/IGSideloadFix).
 
-**Also added:** RocketBootstrap (tweak dependency).
-
 <details>
   <summary>Show features.</summary>
 
@@ -392,9 +390,6 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 
 - [alfhaily](https://twitter.com/freemanrepo) for [Rocket](https://apt.alfhaily.me/depictions/4EYOXC). Support the developer by upgrading to Rocket Pro.
-
-
-- [rpetrich](https://github.com/rpetrich/) for [RocketBootstrap](https://cydia.saurik.com/package/com.rpetrich.rocketbootstrap). Couldn't find any links to support them, will update if I do.
 
 
 - [Prasa Dev](https://prasa.dev/) for [Plus](https://prasa.dev/repo/depictions/web/?p=prasa.plusfi). Support the developer by upgrading to Premium.
