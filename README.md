@@ -1,33 +1,34 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into sideloadeable iOS apps.**
+**Tweaks injected into iOS apps.** _(last update: 19/10/22)_
 
-You are able to sideload these with [AltStore](https://altstore.io/), [Sideloadly](https://sideloadly.io/) or your preferred sideloading service. 
+You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
-You should also be able to install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore). _Some users are reporting issues installing .ipas made for sideloading, I´m looking into it and ~if necessary~ will be releasing separate .ipas to be installed via TrollStore._
+You also can sideload these with [AltStore](https://altstore.io/), [Sideloadly](https://sideloadly.io/) or your preferred sideloading service. 
 
+Installing these via TrollStore should make push notifications work on all apps. _and local song importing on Spotify_
 
-All .ipas tested on an iPhone 12 running iOS 15.4.1.
+Sideloading, you'll only get push notifications using a paid developer account. _not sure about local song importing on Spotify_
+
+**All .ipas tested on an iPhone 12 running iOS 15.4.1.**
 
 ---
 
-**I´m not getting a lot of free time lately, but I intend to update all tweaks/apps to their latest versions as soon as possible. Also, release separate .ipas to be installed via TrollStore to enable push notifications, file system access to tweaks which need it and everything else TrollStore is making it possible to do.** _ty opa334, we love u_
-
----
-
-**You may want to check out my [uYouPlus fork](https://github.com/lucasnasc04/uYouPlus). Very cool stuff. I mean it. Always updating it. Probably because I use it daily.**
+**You may want to check out my [uYouPlus fork](https://github.com/purp0s3/uYouPlus). Very cool stuff. I mean it. Always updating it. Probably because I use it daily.**
 
 ---
 
 # Table of contents
 - [Tweaks](#tweaks)
-    - [BHTwitter](#bhtwitter)
-    - [Spotilife & Sposify](#spotilife--sposify)
-    - [Rocket](#rocket)
-    - [Rhino](#rhino)
-    - [Lizard & Reddit Filter](#lizard--redditfilter)
-    - [Wolf](#wolf)
-    - [MyFitnessPal Premium Unlock](#myfitnesspal-premium-unlock)
+    - [BHTwitter for Twitter](#bhtwitter)
+    - [Rocket for Instagram](#rocket)
+	- [Plus for Instagram](#plus)
+	- [Spotilife for Spotify](#spotilife)
+	- [Spotilife & Sposify for Spotify](#spotilife--sposify)
+    - [Wolf for Facebook](#wolf)
+	- [Rhino for Instagram](#rhino)
+    - [Lizard for Reddit](#lizard)
+	- [Lizard & Reddit Filter for Reddit](#lizard--redditfilter)
 - [Credits](#credits)
 - [Notes](#notes)
 
@@ -38,11 +39,10 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Twitter | 9.30 | 3.1 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/BHTwitter3.1-Twitter9.30/Twitter9.30_BHTwitter3.1.ipa) |
+| Twitter | 9.32 | 3.2 | - |
 
-**Also added:** 
-- [libcephei](https://github.com/hbang/libcephei) (tweak dependency).
-- [OpenTwitterSafariExtension](https://github.com/BandarHL/OpenTwitterSafariExtension) (allow it in Safari settings and open Twitter links inside the app via the share menu).
+**At the moment, [BandarHL](https://github.com/BandarHL)'s latest release is up to date with Twitter's latest version. If it gets outdated, I'll release an updated version.**
+**For now, you can download it [here](https://github.com/BandarHL/BHTwitter/releases).**
 
 <details>
   <summary>Show features.</summary>
@@ -58,7 +58,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 - Enable the new UI of DM search.
 - Auto load photos in highest quality feature.
 - Undo tweet feature.
-- Theme (like Twitter Bule).
+- Theme (like Twitter Blue).
 - Twitter Circle feature.
 - Copying profile information feature.
 - Save tweet as an image.
@@ -79,13 +79,106 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 ---
 
+## Rocket
+
+| App | App Version | Tweak Version | Download |
+| :---: | :---: | :---: | :---: |
+| Instagram | 257.1 | 3.8.0 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.8.0-Instagram257.1/Instagram257.1_Rocket3.8.0.ipa) |
+
+**Note:** Using [opa334](https://github.com/opa334)'s [IGSideloadFix](https://github.com/opa334/IGSideloadFix).
+
+**Also added:** RocketBootstrap (tweak dependency).
+
+<details>
+  <summary>Show features.</summary>
+
+- Save any photo to Camera Roll.
+- Save any video to Camera Roll.
+- Hold down on an image to view high resolution version of it.
+- Hold down on a video to view high resolution version of it.
+- Double tap or hold on a profile image to view it in full screen.
+- Mute and Unmute users from home and activity feed.
+- Hide sponsored posts.
+- Show following status on user profile.
+- Share images using default iOS share sheet.
+- View direct messages without notifying sender.
+- Easily toggle feed layout between grid and list with a press of a button.
+- Confirmation alert when you double-tap a post to like.
+- Tap times inside a post cell to show full timestamp.
+- View stories without marking them as seen.
+- Download photos and videos from stories.
+- Manually mark stories as seen.
+- Show entire gallery instead of last 24 hours in story maker.
+
+</details>
+
+---
+
+## Plus
+
+| App | App Version | Tweak Version | Download |
+| :---: | :---: | :---: | :---: |
+| Instagram | 257.1 | 2.50 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Plus2.50-Instagram257.1/Instagram257.1_Plus2.50.ipa) |
+
+**Note:** Using [opa334](https://github.com/opa334)'s [IGSideloadFix](https://github.com/opa334/IGSideloadFix).
+
+<details>
+  <summary>Show features.</summary>
+
+- See unsent direct messages.
+- Translate comments.
+- Focus Mode.
+- Disable ads.
+- Download media from your feed, direct messages, IGTV and Reels.
+- Stealth features: stories and lives; unlimited media replay, disable typing status and disable marked as seen on direct messages.
+- Story video editor.
+- Copy text from comments.
+- Confirmations for: like, follow and stories stickers.
+- Low data mode.
+- Show total likes and views.
+- Add unlimited accounts.
+- Full-resolution profile pictures.
+- Disable quick reactions.
+- Haptic vibration feedback.
+- Enable Instagram Music for unsupported countries.
+- Story PIP.
+- Hide live comments.
+- Hide suggested posts.
+- Authentication mode.
+
+</details>
+
+---
+
+## Spotilife
+
+| App | App Version | Tweak Version | Download |
+| :---: | :---: | :---: | :---: |
+| Spotify | 8.7.70 | 1.8 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Spotilife1.8-Spotify8.7.70/Spotify8.7.70_Spotilife1.8.ipa) |
+
+<details>
+  <summary>Show features.</summary>
+
+- Unlimited skips.
+- No ads.
+- Very high quality streaming.
+- Import songs.
+- Enable or disable playlist artwork.
+- Enable Now Playing Shows mode.
+- Import local playlists.
+- Clear Spotify's cache.
+
+</details>
+
+---
+
 ## Spotilife & Sposify
 
 | App | App Version | Tweak Versions | Download |
 | :---: | :---: | :---: | :---: |
-| Spotify | 8.5.60 | 1.8 & 8.5.52 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Spotilife1.8-Sposify8.5.52-Spotify8.5.60/Spotify8.5.60_Spotilife1.8_Sposify8.5.52.ipa) |
+| Spotify | 8.5.60 | 1.8 & 8.5.52 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Spotilife1.8-Sposify8.5.52-Spotify8.5.60/Spotify8.5.60_Spotilife1.8_Sposify8.5.52.ipa) |
 
-**Note:** Using Spotify v8.5.60 which seems to be the latest version to fully support injected tweaks, including very high audio quality streaming.
+**Note:** Using Spotify v8.5.60 which is the latest version to fully support injected tweaks, including very high audio quality streaming.
 
 <details>
   <summary>Show Spotilife features.</summary>
@@ -140,37 +233,26 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 ---
 
-## Rocket
+## Wolf
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Instagram | 254.0 | 3.8.0 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Rocket3.8.0-Instagram254.0/Instagram254.0_Rocket3.8.0.ipa) |
+| Facebook | 389.0 | 2.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Wolf2.1-Facebook389.0/Facebook389.0_Wolf2.1.ipa) |
 
-**Note:** Using [opa334](https://github.com/opa334)'s [IGSideloadfix](https://github.com/opa334/IGSideloadFix).
-
-**Also added:** RocketBootstrap (tweak dependency).
+**Note:** Using [qnblackcat](https://github.com/qnblackcat)'s [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix).
 
 <details>
   <summary>Show features.</summary>
-
-- Save any photo to Camera Roll.
-- Save any video to Camera Roll.
-- Hold down on an image to view high resolution version of it.
-- Hold down on a video to view high resolution version of it.
-- Double tap or hold on a profile image to view it in full screen.
-- Mute and Unmute users from home and activity feed.
-- Hide sponsored posts.
-- Show following status on user profile.
-- Share images using default iOS share sheet.
-- View direct messages without notifying sender.
-- Easily toggle feed layout between grid and list with a press of a button.
-- Confirmation alert when you double-tap a post to like.
-- Tap times inside a post cell to show full timestamp.
-- View stories without marking them as seen.
-- Download photos and videos from stories.
-- Manually mark stories as seen.
-- Show entire gallery instead of last 24 hours in story maker.
-
+  
+- Disable marking messages as seen.
+- Disable typing status in messages.
+- No feed ads.
+- Disable marking stories.
+- Disable auto-advance in stories.
+- Save story images and videos.
+- No story ads.
+- Save feed videos by long-pressing the video.
+  
 </details>
 
 ---
@@ -179,9 +261,9 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Instagram | 187.0 | 3.8.1 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Rhino3.8.1-Instagram187.0/Instagram187.0_Rhino3.8.1.ipa) |
+| Instagram | 187.0 | 3.8.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rhino3.8.1-Instagram187.0/Instagram187.0_Rhino3.8.1.ipa) |
 
-**Note:** Using latest versions of Rhino and Instagram that seems to make every feature of the tweak work properly and doesn't need to use [opa334](https://github.com/opa334)'s [IGSideloadfix](https://github.com/opa334/IGSideloadFix).
+**Note:** Using latest versions of Rhino and Instagram which all tweak's features work properly.
 
 <details>
   <summary>Show features.</summary>
@@ -215,15 +297,39 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 ---
 
-## Lizard & RedditFilter
+## Lizard
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Reddit | 2021.12.0 | 1.9 & 1.0.5 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Lizard1.9-RedditFilter1.0.5-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9_RedditFilter1.0.5.ipa) |
+| Reddit | 2021.12.0 | 1.9 & 1.0.5 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Lizard1.9-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9.ipa) |
 
-**Note:** Using lastest version of Reddit compatible with the tweak.
+**Note:** Using Reddit's latest version compatible with the tweak.
 
-**Also added**: RedditFilter. You can download a version without RedditFilter [here](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Lizard1.9-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9.ipa).
+<details>
+  <summary>Show features.</summary>
+  
+- Hide awards.
+- Show NSFW posts.
+- Hide sponsored posts and comments.
+- Download the highest quality video with audio.
+- Download one or more images in gallery posts.
+- Supports video posts with Imgur, gyfcat and more.
+- Undo scrolling if status bar is tapped.
+- Secure authentication.
+
+  </details>
+  
+---
+
+## Lizard & RedditFilter
+
+| App | App Version | Tweak Versions | Download |
+| :---: | :---: | :---: | :---: |
+| Reddit | 2021.12.0 | 1.9 & 1.0.5 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Lizard1.9-RedditFilter1.0.5-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9_RedditFilter1.0.5.ipa) |
+
+**Note:** Using Reddit's latest version compatible with the tweak.
+
+**Also added**: RedditFilter.
 
 <details>
   <summary>Show Lizard features.</summary>
@@ -252,35 +358,11 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
   
 ---
   
-## Wolf
-
-| App | App Version | Tweak Version | Download |
-| :---: | :---: | :---: | :---: |
-| Facebook | 386.0 | 2.1 | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/Wolf2.1-Facebook386.0/Facebook386.0_Wolf2.1.ipa) |
-
-**Note:** Using [qnblackcat](https://github.com/qnblackcat/)'s [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix).
-
-<details>
-  <summary>Show features.</summary>
-  
-- Disable marking messages as seen.
-- Disable typing status in messages.
-- No feed ads.
-- Disable marking stories.
-- Disable auto-advance in stories.
-- Save Story images and videos.
-- No story ads.
-- Save Feed videos by long-pressing the video.
-  
-</details>
-  
----
-  
 ## MyFitnessPal Premium Unlock
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| MyFitnessPal | 22.19.0 | ∞ | [Link](https://github.com/lucasnasc04/Tweaked-iOS-Apps/releases/download/MFPPremiumUnlock22.19.0/MyFitnessPal22.19.0_MFPPremiumUnlock.ipa) |
+| MyFitnessPal | 22.19.0 | ∞ | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/MFPPremiumUnlock22.19.0/MyFitnessPal22.19.0_MFPPremiumUnlock.ipa) |
 
 **Note:** Using latest version of MyFitnessPal's decrypted .ipa I was able to find.
 
@@ -300,10 +382,22 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 - [borishonman](https://github.com/borishonman) for [cydownload](https://github.com/borishonman/cydownload). Couldn't find any links to support them, will update if I do.
 
 
+- [opa334](https://github.com/opa334) for [TrollStore](https://github.com/opa334/TrollStore) and [IGSideloadFix](https://github.com/opa334/IGSideloadFix). Support the developer via [PayPal](http://opa334.github.io/donate.html).
+
+
 - [BandarHL](https://github.com/BandarHL) for [BHTwitter](https://github.com/BandarHL/BHTwitter) and [OpenTwitterSafariExtension](https://github.com/BandarHL/OpenTwitterSafariExtension). Support the developer via [PayPal](https://www.paypal.com/paypalme/BandarHL).
 
 
-- [hashbang](https://github.com/hbang) for [libcephei](https://github.com/hbang/libcephei). Support the developer via [PayPal](https://hashbang.productions/donate/).
+- [hashbang](https://github.com/hbang) for [libcephei](https://github.com/hbang/libcephei). Support the developer via [PayPal](https://hashbang.productions/donate).
+
+
+- [alfhaily](https://twitter.com/freemanrepo) for [Rocket](https://apt.alfhaily.me/depictions/4EYOXC). Support the developer by upgrading to Rocket Pro.
+
+
+- [rpetrich](https://github.com/rpetrich/) for [RocketBootstrap](https://cydia.saurik.com/package/com.rpetrich.rocketbootstrap). Couldn't find any links to support them, will update if I do.
+
+
+- [Prasa Dev](https://prasa.dev/) for [Plus](https://prasa.dev/repo/depictions/web/?p=prasa.plusfi). Support the developer by upgrading to Premium.
 
 
 - [julioverne](https://github.com/julioverne) for [Spotilife](http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife). Support the developer via [Patreon](https://www.patreon.com/julioverne).
@@ -312,16 +406,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 - [aesthyrica](https://github.com/aesthyrica) for [Sposify](https://repo.dynastic.co/package/com.spos). Couldn't find any links to support them, will update if I do.
 
 
-- [alfhaily](https://twitter.com/freemanrepo) for [Rocket](https://apt.alfhaily.me/depictions/4EYOXC). Support the developer by upgrading to Rocket Pro.
-
-
-- [rpetrich](https://github.com/rpetrich/) for [RocketBootstrap](https://cydia.saurik.com/package/com.rpetrich.rocketbootstrap/). Couldn't find any links to support them, will update if I do.
-
-
-- [opa334](https://github.com/opa334) for [IGSideloadFix](https://github.com/opa334/IGSideloadFix). Support the developer via [PayPal](http://opa334.github.io/donate.html).
-
-
-- [LemaMichael](https://github.com/LemaMichael) for [Rhino](http://cydia.saurik.com/package/com.lema.michael.rhino/), [Lizard](http://cydia.saurik.com/package/com.lema.lizard) and [Wolf](http://cydia.saurik.com/package/com.lema.wolf/). Couldn't find any links to support them, will update if I do.
+- [LemaMichael](https://github.com/LemaMichael) for [Wolf](http://cydia.saurik.com/package/com.lema.wolf), [Rhino](http://cydia.saurik.com/package/com.lema.michael.rhino) and [Lizard](http://cydia.saurik.com/package/com.lema.lizard). Support the developer by buying premium licenses.
 
 
 - [level3tjg](https://github.com/level3tjg) for [RedditFilter](https://level3tjg.me/repo/?p=com.level3tjg.redditfilter). Support the developer via [Ko-fi](https://ko-fi.com/level3tjg).
@@ -330,7 +415,7 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 - [TheArmKing](https://github.com/TheArmKing) for [MyFitnessPal Premium Unlock](https://thearmking.xyz). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/therealarmking).
 
 
-- [iOSGods](https://iosgods.com/) for [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us). Support the developer by being a [ViP member](https://iosgods.com/subscriptions/).
+- [iOSGods](https://iosgods.com/) for [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us). Support them by becoming a [ViP member](https://iosgods.com/subscriptions).
 
 
 - [und3fined](https://und3fined.com) for [Decrypt IPA](https://ipa.decrypt.day). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/und3fined).
@@ -343,15 +428,15 @@ All .ipas tested on an iPhone 12 running iOS 15.4.1.
 
 
 # Notes
-**ALL CREDITS GOES TO THE DEVELOPERS OF THE TWEAKS, SUPPORT THEM.** The only thing I'm doing is injecting the tweaks into .ipas so that unexperienced users can sideload them easily.
+**ALL CREDITS GOES TO THE DEVELOPERS OF THE TWEAKS, SUPPORT THEM.** The only thing I'm doing is injecting the tweaks into .ipas so that unexperienced users can use them easily.
 
 Developers of these tweaks, if you don't want me to host an .ipa with your tweak injected, contact me and I'll delete it immediately.
 
 All tweaks were injected using [Azule](https://github.com/Al4ise/Azule).
 
-All tweaks were obtained within their GitHub repos or by fetching the .debs via their cydia repos using [cydownload](https://github.com/borishonman/cydownload).
+All tweaks were obtained within their GitHub repos or by fetching .debs via their cydia repos using [cydownload](https://github.com/borishonman/cydownload).
 
-Everything used to generate the injected .ipas are inside each tweak's folder. **Except from the decrypted .ipas**, which are required for proper tweak injection and sideloading on jailed devices. I will decrypt them by myself once I get access to a jailbroken device or an Apple Silicon Mac. For now, I have to get them from trusted sources like [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us), [Decrypt IPA](https://ipa.decrypt.day) and [qnblackcat](https://github.com/qnblackcat/)'s [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs).
+Everything used to generate the injected .ipas are inside each tweak's folder. **Except from the decrypted .ipas**, which are required for proper tweak injection on jailed devices. I will decrypt them by myself once I get access to a jailbroken device or an Apple Silicon Mac. For now, I have to get them from trusted sources like [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us), [Decrypt IPA](https://ipa.decrypt.day) and [qnblackcat](https://github.com/qnblackcat/)'s [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs).
 
 
 This project is licensed under the terms of the GNU General Public License v3.0.
