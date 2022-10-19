@@ -4,7 +4,7 @@
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
-You also can sideload these with [**Sideloadly**](https://sideloadly.io/), [AltStore](https://altstore.io/) or your preferred sideloading service. ~~sideloadly is recommended.~~
+You also can sideload these with [**Sideloadly**](https://sideloadly.io/), [AltStore](https://altstore.io/) or your preferred sideloading service. **Sideloadly is recommended.**
 
 Installing these via TrollStore should make push notifications work on all apps. _and local song importing on Spotify_
 
