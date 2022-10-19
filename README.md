@@ -14,10 +14,6 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 ---
 
-**You may want to check out my [uYouPlus fork](https://github.com/purp0s3/uYouPlus). Very cool stuff. I mean it. Always updating it. Probably because I use it daily.**
-
----
-
 # Table of contents
 - [Tweaks](#tweaks)
     - [BHTwitter for Twitter](#bhtwitter)
