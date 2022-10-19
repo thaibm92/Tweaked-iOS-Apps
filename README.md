@@ -4,7 +4,7 @@
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
-You also can sideload these with [AltStore](https://altstore.io/), [Sideloadly](https://sideloadly.io/) or your preferred sideloading service. 
+You also can sideload these with [**Sideloadly**](https://sideloadly.io/), [AltStore](https://altstore.io/) or your preferred sideloading service. ~~sideloadly is recommended.~~
 
 Installing these via TrollStore should make push notifications work on all apps. _and local song importing on Spotify_
 
@@ -301,7 +301,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Reddit | 2021.12.0 | 1.9 & 1.0.5 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Lizard1.9-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9.ipa) |
+| Reddit | 2021.12.0 | 1.9 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Lizard1.9-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9.ipa) |
 
 **Note:** Using Reddit's latest version compatible with the tweak.
 
