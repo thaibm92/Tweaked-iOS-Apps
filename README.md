@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _(last update: 19/10/22)_
+**Tweaks injected into iOS apps.** _(last update: 23/10/22)_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -19,12 +19,14 @@ Sideloading, you'll only get push notifications using a paid developer account. 
     - [BHTwitter for Twitter](#bhtwitter)
     - [Rocket for Instagram](#rocket)
 	- [Plus for Instagram](#plus)
+	- [DLTikTok for TikTok](#dltiktok)
 	- [Spotilife for Spotify](#spotilife)
 	- [Spotilife & Sposify for Spotify](#spotilife--sposify)
     - [Wolf for Facebook](#wolf)
 	- [Rhino for Instagram](#rhino)
     - [Lizard for Reddit](#lizard)
 	- [Lizard & Reddit Filter for Reddit](#lizard--redditfilter)
+	- [MyFitnessPal Premium Unlock](#myfitnesspal--premium--unlock)
 - [Credits](#credits)
 - [Notes](#notes)
 
@@ -114,8 +116,6 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 | :---: | :---: | :---: | :---: |
 | Instagram | 257.1 | 2.50 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Plus2.50-Instagram257.1/Instagram257.1_Plus2.50.ipa) |
 
-**Note:** Using [opa334](https://github.com/opa334)'s [IGSideloadFix](https://github.com/opa334/IGSideloadFix).
-
 <details>
   <summary>Show features.</summary>
 
@@ -139,6 +139,32 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 - Hide live comments.
 - Hide suggested posts.
 - Authentication mode.
+
+</details>
+
+---
+
+## DLTikTok
+
+| App | App Version | Tweak Version | Download |
+| :---: | :---: | :---: | :---: |
+| TikTok | 26.5.0 | 1.9.3 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/DLTT1.9.3-TikTok26.5.0/TikTok26.5.0_DLTikTok1.9.3.ipa) |
+
+<details>
+  <summary>Show features.</summary>
+
+- Change countries.
+- Auto skip videos.
+- Hide interface.
+- Hide warnings.
+- Enable sound on copyrighted videos.
+- Open subscriptions on startup.
+- Remove ads.
+- Open links in Safari.
+- Password protection.
+- Show disabled comments.
+- User page: show video creation date, total number of videos and profile picture saving.
+- Other useful features.
 
 </details>
 
@@ -234,6 +260,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 | Facebook | 389.0 | 2.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Wolf2.1-Facebook389.0/Facebook389.0_Wolf2.1.ipa) |
 
 **Note:** Using [qnblackcat](https://github.com/qnblackcat)'s [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix).
+**Also:** Fixed blank profiles.
 
 <details>
   <summary>Show features.</summary>
@@ -356,9 +383,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| MyFitnessPal | 22.19.0 | ∞ | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/MFPPremiumUnlock22.19.0/MyFitnessPal22.19.0_MFPPremiumUnlock.ipa) |
-
-**Note:** Using latest version of MyFitnessPal's decrypted .ipa I was able to find.
+| MyFitnessPal | 22.20.0 | ∞ | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/MFPPremiumUnlock22.20.0/MyFitnessPal22.20.0_MFPPremiumUnlock.ipa) |
 
 <details>
   <summary>Show features.</summary>
@@ -389,6 +414,9 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 
 - [Prasa Dev](https://prasa.dev/) for [Plus](https://prasa.dev/repo/depictions/web/?p=prasa.plusfi). Support the developer by upgrading to Premium.
+
+
+- [Ahmed Bafkir](https://twitter.com/peaceful_0) for DLTikTok. Support the developer via PayPal inside the app.
 
 
 - [julioverne](https://github.com/julioverne) for [Spotilife](http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife). Support the developer via [Patreon](https://www.patreon.com/julioverne).
