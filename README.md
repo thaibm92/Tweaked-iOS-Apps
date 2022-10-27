@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _(last update: 23/10/22)_
+**Tweaks injected into iOS apps.** _(last update: 27/10/22)_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -21,12 +21,13 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 	- [Plus for Instagram](#plus)
 	- [DLTikTok for TikTok](#dltiktok)
 	- [Spotilife for Spotify](#spotilife)
-	- [Spotilife & Sposify for Spotify](#spotilife--sposify)
+	- [Spotilife & Sposify for Spotify](#spotilife-sposify)
     - [Wolf for Facebook](#wolf)
 	- [Rhino for Instagram](#rhino)
     - [Lizard for Reddit](#lizard)
-	- [Lizard & Reddit Filter for Reddit](#lizard--redditfilter)
-	- [MyFitnessPal Premium Unlock](#myfitnesspal--premium--unlock)
+	- [Lizard & Reddit Filter for Reddit](#lizard-redditfilter)
+	- [Reddit Filter & RedditOldDiscovery for Reddit](#redditfilter-redditolddiscovery)
+	- [MyFitnessPal Premium Unlock](#myfitnesspal-premium-unlock)
 - [Credits](#credits)
 - [Notes](#notes)
 
@@ -378,6 +379,32 @@ Sideloading, you'll only get push notifications using a paid developer account. 
   </details>
   
 ---
+
+## RedditFilter & RedditOldDiscovery
+
+| App | App Version | Tweak Versions | Download |
+| :---: | :---: | :---: | :---: |
+| Reddit | 2022.39.0 | 1.0.6 & 0.0.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditFilter1.06-RedditOldDiscovery0.0.1-Reddit2022.39.0/Reddit2022.39.0_RedditFilter1.0.6_RedditOldDiscovery0.0.1.ipa) |
+
+<details>
+  <summary>Show RedditFilter features.</summary>
+  
+- Filter out promoted posts from your feed.
+- Filter out recommended posts from your feed.
+- Filter out livestreams from your feed.
+- Filter out NFSW posts from your feed.
+- Configurable from in-app settings.
+
+  </details>
+  
+<details>
+  <summary>Show RedditOldDiscovery features.</summary>
+  
+- Disable the new Reddit discovery tab.
+
+  </details>
+  
+---
   
 ## MyFitnessPal Premium Unlock
 
@@ -428,7 +455,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 - [LemaMichael](https://github.com/LemaMichael) for [Wolf](http://cydia.saurik.com/package/com.lema.wolf), [Rhino](http://cydia.saurik.com/package/com.lema.michael.rhino) and [Lizard](http://cydia.saurik.com/package/com.lema.lizard). Support the developer by buying premium licenses.
 
 
-- [level3tjg](https://github.com/level3tjg) for [RedditFilter](https://level3tjg.me/repo/?p=com.level3tjg.redditfilter). Support the developer via [Ko-fi](https://ko-fi.com/level3tjg).
+- [level3tjg](https://github.com/level3tjg) for [RedditFilter](https://level3tjg.me/repo/?p=com.level3tjg.redditfilter) and [RedditOldDiscovery](https://level3tjg.me/repo/?p=com.level3tjg.redditolddiscovery) . Support the developer via [Ko-fi](https://ko-fi.com/level3tjg).
 
 
 - [TheArmKing](https://github.com/TheArmKing) for [MyFitnessPal Premium Unlock](https://thearmking.xyz). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/therealarmking).
