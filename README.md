@@ -96,7 +96,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 | Instagram | 236.1 | 3.7.42 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.7.42-Instagram236.1/Instagram236.1_Rocket3.7.42.ipa) |
 | Instagram | 257.1 | 3.8.0 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.8.0-Instagram257.1/Instagram257.1_Rocket3.8.0.ipa) |
 
-**Note: Instagram v236.1 with Rocket 3.7.42 are the latest versions without the annoying pop up when downloading stuff.**
+**Note: Instagram v236.1 with Rocket v3.7.42 are the latest versions without the annoying pop up when downloading stuff.**
 
 **Also: Using opa334's IGSideloadFix.**
 
