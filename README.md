@@ -10,38 +10,48 @@ Installing these via TrollStore should make push notifications work on all apps.
 
 Sideloading, you'll only get push notifications using a paid developer account. _not sure about local song importing on Spotify_
 
-**All .ipas tested on an iPhone 12 running iOS 15.4.1.**
+**All .ipas tested on an iPhone 12 running iOS 15.4.1. Installed via TrollStore and sideloaded via Sideloadly.**
 
 ---
 
 # Table of contents
-- [Tweaks](#tweaks)
-    - [BHTwitter for Twitter](#bhtwitter)
-    - [Rocket for Instagram](#rocket)
-	- [Plus for Instagram](#plus)
-	- [DLTikTok for TikTok](#dltiktok)
-	- [Spotilife for Spotify](#spotilife)
-	- [Spotilife & Sposify for Spotify](#spotilife--sposify)
-    - [Wolf for Facebook](#wolf)
-	- [Rhino for Instagram](#rhino)
-    - [Lizard for Reddit](#lizard)
-	- [Lizard & Reddit Filter for Reddit](#lizard--redditfilter)
-	- [Reddit Filter & RedditOldDiscovery for Reddit](#redditfilter--redditolddiscovery)
-	- [MyFitnessPal Premium Unlock](#myfitnesspal-premium-unlock)
+- [Twitter](#twitter)
+	- [BHTwitter](#bhtwitter)
+- [Instagram](#instagram)
+	- [Rocket](#rocket)
+	- [Plus](#plus)
+	- [Rhino](#rhino)
+- [TikTok](#tiktok)
+	- [DLTikTok](#dltiktok)
+- [Spotify](#spotify)
+	- [Spotilife](#spotilife)
+	- [Spotilife & Sposify](#spotilife--sposify)
+- [Facebook](#facebook)	
+	- [Wolf](#wolf)
+- [Reddit](#reddit)
+	- [Lizard](#lizard)
+	- [Reddit Filter](#redditfilter)
+	- [RedditOldDiscovery](#redditolddiscovery)
+- [Twitch](#twitch)
+	- [TwitchAdBlock](#twitchadblock)
+- [SoundCloud](#soundcloud)
+	- [SCMusicPlus](#scmusicplus)
+- [MyFitnessPal Premium Unlock](#myfitnesspal-premium-unlock)
 - [Credits](#credits)
 - [Notes](#notes)
 
 ---
 
 # Tweaks
-## BHTwitter
+
+## Twitter
+### BHTwitter
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Twitter | 9.32 | 3.2 | - |
+| Twitter | 9.34 | 3.2 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/BHTwitter3.2-Twitter9.34/Twitter9.34_BHTwitter3.2.ipa) |
 
-**At the moment, [BandarHL](https://github.com/BandarHL)'s latest release is up to date with Twitter's latest version. If it gets outdated, I'll release an updated version.**
-**For now, you can download it [here](https://github.com/BandarHL/BHTwitter/releases).**
+**Also added: OpenTwitterSafariExtension (enable it in Safari settings) and libcephei (tweak dependency).
 
 <details>
   <summary>Show features.</summary>
@@ -78,13 +88,17 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 ---
 
-## Rocket
+## Instagram
+### Rocket
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
+| Instagram | 236.1 | 3.7.42 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.7.42-Instagram236.1/Instagram236.1_Rocket3.7.42.ipa) |
 | Instagram | 257.1 | 3.8.0 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.8.0-Instagram257.1/Instagram257.1_Rocket3.8.0.ipa) |
 
-**Note:** Using [opa334](https://github.com/opa334)'s [IGSideloadFix](https://github.com/opa334/IGSideloadFix).
+**Note: Instagram v236.1 with Rocket 3.7.42 are the latest versions without the annoying pop up when downloading stuff.**
+
+**Also: Using opa334's IGSideloadFix.**
 
 <details>
   <summary>Show features.</summary>
@@ -111,7 +125,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 ---
 
-## Plus
+### Plus
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
@@ -145,11 +159,52 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 ---
 
-## DLTikTok
+### Rhino
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| TikTok | 26.5.0 | 1.9.3 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/DLTT1.9.3-TikTok26.5.0/TikTok26.5.0_DLTikTok1.9.3.ipa) |
+| Instagram | 187.0 | 3.8.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rhino3.8.1-Instagram187.0/Instagram187.0_Rhino3.8.1.ipa) |
+
+**Note:** Using Instagram's latest version compatible with Rhino.
+
+<details>
+  <summary>Show features.</summary>
+
+- Download Reels.
+- Download feed images and videos.
+- View all user's profile image.
+- Determine if users are following you.
+- Download images and videos in inbox.
+- View disappearing photos/videos for an unlimited duration.
+- Download story images and videos.
+- Download Live Videos.
+- Disable marking stories as seen.
+- Hide Live chats during live streams.
+- No story ads.
+- This tweak downloads all images and videos of the highest quality. Configure options from Settings.
+
+
+**PRO ~~paid~~ features only.**
+- View unsent messages.
+- Download all user's posts.
+- Filter user's posts.
+- Like confirmation.
+- Haptic feedback.
+- Auto Like Reels.
+- Auto Follow users in the Reels explore page.
+- Quickly approve Follow Requests and Suggested Users.
+- Add an extra layer of security with Face ID/Touch ID to view the Instagram App.
+
+</details>
+
+---
+
+##TikTok
+### DLTikTok
+
+| App | App Version | Tweak Version | Download |
+| :---: | :---: | :---: | :---: |
+| TikTok | 26.5.0 | 1.9.3 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/DLTikTok1.9.3-TikTok26.5.0/TikTok26.5.0_DLTikTok1.9.3.ipa) |
 
 <details>
   <summary>Show features.</summary>
@@ -170,8 +225,8 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 </details>
 
 ---
-
-## Spotilife
+## Spotify
+### Spotilife
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
@@ -193,13 +248,13 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 ---
 
-## Spotilife & Sposify
+### Spotilife & Sposify
 
 | App | App Version | Tweak Versions | Download |
 | :---: | :---: | :---: | :---: |
 | Spotify | 8.5.60 | 1.8 & 8.5.52 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Spotilife1.8-Sposify8.5.52-Spotify8.5.60/Spotify8.5.60_Spotilife1.8_Sposify8.5.52.ipa) |
 
-**Note:** Using Spotify v8.5.60 which is the latest version to fully support injected tweaks, including very high audio quality streaming.
+**Note: Using Spotify v8.5.60 which is the latest version to fully support injected tweaks, including very high audio quality streaming.**
 
 <details>
   <summary>Show Spotilife features.</summary>
@@ -253,15 +308,14 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 </details>
 
 ---
-
-## Wolf
+## Facebook
+### Wolf
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Facebook | 389.0 | 2.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Wolf2.1-Facebook389.0/Facebook389.0_Wolf2.1.ipa) |
+| Facebook | 390.1 | 2.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Wolf2.1-Facebook390.1/Facebook390.1_Wolf2.1.ipa) |
 
-**Note:** Using [qnblackcat](https://github.com/qnblackcat)'s [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix).
-**Also:** Fixed blank profiles.
+**Note: Using qnblackcat's FBSideloadFix.**
 
 <details>
   <summary>Show features.</summary>
@@ -279,53 +333,16 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 ---
 
-## Rhino
-
-| App | App Version | Tweak Version | Download |
-| :---: | :---: | :---: | :---: |
-| Instagram | 187.0 | 3.8.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rhino3.8.1-Instagram187.0/Instagram187.0_Rhino3.8.1.ipa) |
-
-**Note:** Using latest versions of Rhino and Instagram which all tweak's features work properly.
-
-<details>
-  <summary>Show features.</summary>
-
-- Download Reels.
-- Download feed images and videos.
-- View all user's profile image.
-- Determine if users are following you.
-- Download images and videos in inbox.
-- View disappearing photos/videos for an unlimited duration.
-- Download story images and videos.
-- Download Live Videos.
-- Disable marking stories as seen.
-- Hide Live chats during live streams.
-- No story ads.
-- This tweak downloads all images and videos of the highest quality. Configure options from Settings.
-
-
-**PRO ~~paid~~ features only.**
-- View unsent messages.
-- Download all user's posts.
-- Filter user's posts.
-- Like confirmation.
-- Haptic feedback.
-- Auto Like Reels.
-- Auto Follow users in the Reels explore page.
-- Quickly approve Follow Requests and Suggested Users.
-- Add an extra layer of security with Face ID/Touch ID to view the Instagram App.
-
-</details>
-
----
-
-## Lizard
+## Reddit
+### Lizard
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
 | Reddit | 2021.12.0 | 1.9 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Lizard1.9-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9.ipa) |
 
-**Note:** Using Reddit's latest version compatible with the tweak.
+**Note: Using Reddit's latest version compatible with Lizard.**
+
+**Download with RedditFilter v1.0.6: [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Lizard1.9-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9_RedditFilter1.0.6.ipa).**
 
 <details>
   <summary>Show features.</summary>
@@ -343,65 +360,76 @@ Sideloading, you'll only get push notifications using a paid developer account. 
   
 ---
 
-## Lizard & RedditFilter
+### RedditFilter
 
-| App | App Version | Tweak Versions | Download |
+| App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Reddit | 2021.12.0 | 1.9 & 1.0.5 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Lizard1.9-RedditFilter1.0.5-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9_RedditFilter1.0.5.ipa) |
+| Reddit | 2022.39.0 | 1.0.6 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditFilter1.0.6-Reddit2022.39.0/Reddit2022.39.0_RedditFilter1.0.6.ipa) |
 
-**Note:** Using Reddit's latest version compatible with the tweak.
+**Note: Using level3tjg's RedditSideloadFix.**
 
-**Also added**: RedditFilter.
-
-<details>
-  <summary>Show Lizard features.</summary>
-  
-- Hide awards.
-- Show NSFW posts.
-- Hide sponsored posts and comments.
-- Download the highest quality video with audio.
-- Download one or more images in gallery posts.
-- Supports video posts with Imgur, gyfcat and more.
-- Undo scrolling if status bar is tapped.
-- Secure authentication.
-
-  </details>
+**Download with RedditOldDiscovery v0.0.1: [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditFilter1.0.6-Reddit2022.39.0/Reddit2022.39.0_RedditFilter1.0.6_RedditOldDiscovery0.0.1.ipa).**
   
 <details>
   <summary>Show RedditFilter features.</summary>
   
+- Configurable from in-app settings.
 - Filter out promoted posts from your feed.
 - Filter out recommended posts from your feed.
 - Filter out livestreams from your feed.
 - Filter out NFSW posts from your feed.
-- Configurable from in-app settings.
 
   </details>
   
 ---
 
-## RedditFilter & RedditOldDiscovery
+### RedditOldDiscovery
 
-| App | App Version | Tweak Versions | Download |
+| App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Reddit | 2022.39.0 | 1.0.6 & 0.0.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditFilter1.06-RedditOldDiscovery0.0.1-Reddit2022.39.0/Reddit2022.39.0_RedditFilter1.0.6_RedditOldDiscovery0.0.1.ipa) |
+| Reddit | 2022.39.0 | 0.0.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditOldDiscovery0.0.1-Reddit2022.39.0/Reddit2022.39.0_RedditOldDiscovery0.0.1.ipa) |
+
+**Note: Using level3tjg's RedditSideloadFix.**
 
 <details>
-  <summary>Show RedditFilter features.</summary>
-  
-- Filter out promoted posts from your feed.
-- Filter out recommended posts from your feed.
-- Filter out livestreams from your feed.
-- Filter out NFSW posts from your feed.
-- Configurable from in-app settings.
-
-  </details>
-  
-<details>
-  <summary>Show RedditOldDiscovery features.</summary>
+  <summary>Show features.</summary>
   
 - Disable the new Reddit discovery tab.
 
+  </details>
+  
+---
+
+## Twitch
+### TwitchAdBlock
+
+| App | App Version | Tweak Version | Download |
+| :---: | :---: | :---: | :---: |
+| Twitch | 14.0.2 | 0.0.8 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/TwitchAdBlock0.0.8-Twitch14.0.2/Twitch14.0.2_TwitchAdBlock0.0.8.ipa) |
+
+<details>
+  <summary>Show features.</summary>
+  
+- Block Twitch video ads.
+
+  </details>
+  
+---
+
+## SoundCloud
+### SCMusicPlus
+
+| App | App Version | Tweak Version | Download |
+| :---: | :---: | :---: | :---: |
+| SoundCloud | 6.10.0 | 2.2.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/SCMusicPlus2.2.1-SoundCloud6.10.0/SoundCloud6.10.0_SCMusicPlus2.2.1.ipa) |
+
+<details>
+  <summary>Show features.</summary>
+  
+- Remove ads.
+- Remove promoted playlists.
+- Remove upsell buttons.
+  
   </details>
   
 ---
@@ -410,7 +438,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| MyFitnessPal | 22.20.0 | ∞ | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/MFPPremiumUnlock22.20.0/MyFitnessPal22.20.0_MFPPremiumUnlock.ipa) |
+| MyFitnessPal | 22.20.0 | ∞ | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/MyFitnessPal22.20.0-MFPPremiumUnlock/MyFitnessPal22.20.0_MFPPremiumUnlock.ipa) |
 
 <details>
   <summary>Show features.</summary>
@@ -424,51 +452,37 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 # Credits
 - [Al4ise](https://github.com/Al4ise) for [Azule](https://github.com/Al4ise/Azule). Couldn't find any links to support them, will update if I do.
 
-
 - [borishonman](https://github.com/borishonman) for [cydownload](https://github.com/borishonman/cydownload). Couldn't find any links to support them, will update if I do.
-
 
 - [opa334](https://github.com/opa334) for [TrollStore](https://github.com/opa334/TrollStore) and [IGSideloadFix](https://github.com/opa334/IGSideloadFix). Support the developer via [PayPal](http://opa334.github.io/donate.html).
 
-
 - [BandarHL](https://github.com/BandarHL) for [BHTwitter](https://github.com/BandarHL/BHTwitter) and [OpenTwitterSafariExtension](https://github.com/BandarHL/OpenTwitterSafariExtension). Support the developer via [PayPal](https://www.paypal.com/paypalme/BandarHL).
-
 
 - [hashbang](https://github.com/hbang) for [libcephei](https://github.com/hbang/libcephei). Support the developer via [PayPal](https://hashbang.productions/donate).
 
-
 - [alfhaily](https://twitter.com/freemanrepo) for [Rocket](https://apt.alfhaily.me/depictions/4EYOXC). Support the developer by upgrading to Rocket Pro.
-
 
 - [Prasa Dev](https://prasa.dev/) for [Plus](https://prasa.dev/repo/depictions/web/?p=prasa.plusfi). Support the developer by upgrading to Premium.
 
-
 - [Ahmed Bafkir](https://twitter.com/peaceful_0) for DLTikTok. Support the developer via PayPal inside the app.
-
 
 - [julioverne](https://github.com/julioverne) for [Spotilife](http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife). Support the developer via [Patreon](https://www.patreon.com/julioverne).
 
-
 - [aesthyrica](https://github.com/aesthyrica) for [Sposify](https://repo.dynastic.co/package/com.spos). Couldn't find any links to support them, will update if I do.
-
 
 - [LemaMichael](https://github.com/LemaMichael) for [Wolf](http://cydia.saurik.com/package/com.lema.wolf), [Rhino](http://cydia.saurik.com/package/com.lema.michael.rhino) and [Lizard](http://cydia.saurik.com/package/com.lema.lizard). Support the developer by buying premium licenses.
 
+- [level3tjg](https://github.com/level3tjg) for [RedditFilter](https://level3tjg.me/repo/?p=com.level3tjg.redditfilter), [RedditOldDiscovery](https://level3tjg.me/repo/?p=com.level3tjg.redditolddiscovery), [RedditSideloadFix](https://github.com/level3tjg/RedditSideloadFix) and [TwitchAdBlock](https://level3tjg.me/repo/depictions/?p=com.level3tjg.twitchadblock). Support the developer via [Ko-fi](https://ko-fi.com/level3tjg).
 
-- [level3tjg](https://github.com/level3tjg) for [RedditFilter](https://level3tjg.me/repo/?p=com.level3tjg.redditfilter) and [RedditOldDiscovery](https://level3tjg.me/repo/?p=com.level3tjg.redditolddiscovery) . Support the developer via [Ko-fi](https://ko-fi.com/level3tjg).
-
+- [Rov3r](https://github.com/Rov3r) for [SCMusicPlus](https://github.com/Rov3r/scmusicplus). Couldn't find any links to support them, will update if I do.
 
 - [TheArmKing](https://github.com/TheArmKing) for [MyFitnessPal Premium Unlock](https://thearmking.xyz). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/therealarmking).
 
-
 - [iOSGods](https://iosgods.com/) for [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us). Support them by becoming a [ViP member](https://iosgods.com/subscriptions).
-
 
 - [und3fined](https://und3fined.com) for [Decrypt IPA](https://ipa.decrypt.day). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/und3fined).
 
-
 - [qnblackcat](https://github.com/qnblackcat/) for [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix) and [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs). Support the developer via [PayPal](https://www.paypal.com/paypalme/qnblackcat).
-
 
 - All jailbreak developers and community for making all this possible.
 
