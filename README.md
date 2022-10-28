@@ -30,7 +30,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 	- [Wolf](#wolf)
 - [Reddit](#reddit)
 	- [Lizard](#lizard)
-	- [Reddit Filter](#redditfilter)
+	- [RedditFilter](#redditfilter)
 	- [RedditOldDiscovery](#redditolddiscovery)
 - [Twitch](#twitch)
 	- [TwitchAdBlock](#twitchadblock)
