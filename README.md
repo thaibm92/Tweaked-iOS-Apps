@@ -51,7 +51,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 | :---: | :---: | :---: | :---: |
 | Twitter | 9.34 | 3.2 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/BHTwitter3.2-Twitter9.34/Twitter9.34_BHTwitter3.2.ipa) |
 
-**Also added: OpenTwitterSafariExtension (enable it in Safari settings) and libcephei (tweak dependency).
+**Also added: OpenTwitterSafariExtension (enable it in Safari settings) and libcephei (tweak dependency).**
 
 <details>
   <summary>Show features.</summary>
@@ -165,7 +165,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 | :---: | :---: | :---: | :---: |
 | Instagram | 187.0 | 3.8.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rhino3.8.1-Instagram187.0/Instagram187.0_Rhino3.8.1.ipa) |
 
-**Note:** Using Instagram's latest version compatible with Rhino.
+**Note: Using Instagram's latest version compatible with Rhino.**
 
 <details>
   <summary>Show features.</summary>
