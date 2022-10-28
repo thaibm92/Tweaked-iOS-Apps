@@ -371,7 +371,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 **Download with RedditOldDiscovery v0.0.1: [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditFilter1.0.6-Reddit2022.39.0/Reddit2022.39.0_RedditFilter1.0.6_RedditOldDiscovery0.0.1.ipa).**
   
 <details>
-  <summary>Show RedditFilter features.</summary>
+  <summary>Show features.</summary>
   
 - Configurable from in-app settings.
 - Filter out promoted posts from your feed.
