@@ -199,7 +199,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 ---
 
-##TikTok
+## TikTok
 ### DLTikTok
 
 | App | App Version | Tweak Version | Download |
