@@ -498,5 +498,10 @@ All tweaks were obtained within their GitHub repos or by fetching .debs via thei
 
 Everything used to generate the injected .ipas are inside each tweak's folder. **Except from the decrypted .ipas**, which are required for proper tweak injection on jailed devices. I will decrypt them by myself once I get access to a jailbroken device or an Apple Silicon Mac. For now, I have to get them from trusted sources like [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us), [Decrypt IPA](https://ipa.decrypt.day) and [qnblackcat](https://github.com/qnblackcat/)'s [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs).
 
+---
+
+If you want to make a donation to me (I don't think I deserve it, but if you really want to), you can do that by clicking the donate button. Also, it will show to my parents that all the sleepless nights had a... purpose. [Donate by clicking in this beautiful and long hyperlink](https://www.paypal.com/donate/?business=SKMYRAY32DX6A&no_recurring=1&currency_code=USD).
+
+---
 
 This project is licensed under the terms of the GNU General Public License v3.0.
