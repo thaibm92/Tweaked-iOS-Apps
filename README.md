@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _(last update: 28/10/22)_
+**Tweaks injected into iOS apps.** _(last update: 29/10/22)_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -36,7 +36,10 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 	- [TwitchAdBlock](#twitchadblock)
 - [SoundCloud](#soundcloud)
 	- [SCMusicPlus](#scmusicplus)
-- [MyFitnessPal Premium Unlock](#myfitnesspal-premium-unlock)
+- [Tinder](#tinder)
+	- [Tinder Premium](#tinder-premium)
+- [MyFitnessPal](#myfitnesspal)
+	- [MyFitnessPal Premium Unlock](#myfitnesspal-premium-unlock)
 - [Credits](#credits)
 - [Notes](#notes)
 
@@ -432,9 +435,27 @@ Sideloading, you'll only get push notifications using a paid developer account. 
   
   </details>
   
----
+  ---
+
+## Tinder 
+### Tinder Premium
+
+| App | App Version | Tweak Version | Download |
+| :---: | :---: | :---: | :---: |
+| Tinder | 13.19.0 | 1.0.0 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Tinder13.19.0-Premium/Tinder13.19.0_Premium.ipa) |
+
+<details>
+  <summary>Show features.</summary>
   
-## MyFitnessPal Premium Unlock
+- No blurred photos.
+- Unlimited likes.
+  
+</details>
+
+---
+
+## MyFitnessPal  
+### MyFitnessPal Premium Unlock
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
@@ -476,9 +497,11 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 - [Rov3r](https://github.com/Rov3r) for [SCMusicPlus](https://github.com/Rov3r/scmusicplus). Couldn't find any links to support them, will update if I do.
 
+- [Ahmedoo94](https://iosgods.com/profile/1871066-ahmedoo94/) for [Tinder Premium](https://repo.hackyouriphone.org/tunderlikes). Support them by becoming an [iOSGods's ViP member](https://iosgods.com/subscriptions).
+
 - [TheArmKing](https://github.com/TheArmKing) for [MyFitnessPal Premium Unlock](https://thearmking.xyz). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/therealarmking).
 
-- [iOSGods](https://iosgods.com/) for [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us). Support them by becoming a [ViP member](https://iosgods.com/subscriptions).
+- [iOSGods](https://iosgods.com/) for [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us). Support them by becoming an [iOSGods's ViP member](https://iosgods.com/subscriptions).
 
 - [und3fined](https://und3fined.com) for [Decrypt IPA](https://ipa.decrypt.day). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/und3fined).
 
