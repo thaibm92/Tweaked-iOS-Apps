@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _(last update: 29/10/22)_
+**Tweaks injected into iOS apps.** _(last update: 05/11/22)_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -26,7 +26,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 - [Spotify](#spotify)
 	- [Spotilife](#spotilife)
 	- [Spotilife & Sposify](#spotilife--sposify)
-- [Facebook](#facebook)	
+- [Facebook](#facebook)
 	- [Wolf](#wolf)
 - [Reddit](#reddit)
 	- [Lizard](#lizard)
@@ -42,6 +42,8 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 	- [MyFitnessPal Premium Unlock](#myfitnesspal-premium-unlock)
 - [Credits](#credits)
 - [Notes](#notes)
+- [Donation](#donation)
+- [License](#license)
 
 ---
 
@@ -52,7 +54,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Twitter | 9.34 | 3.2 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/BHTwitter3.2-Twitter9.34/Twitter9.34_BHTwitter3.2.ipa) |
+| Twitter | 9.34.1 | 3.2 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/BHTwitter3.2-Twitter9.34.1/Twitter9.34.1_BHTwitter3.2.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/BHTwitter3.2-Twitter9.34.1/Twitter9.34.1_BHTwitter3.2TS.ipa) |
 
 **Also added: OpenTwitterSafariExtension (enable it in Safari settings) and libcephei (tweak dependency).**
 
@@ -97,7 +99,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
 | Instagram | 236.1 | 3.7.42 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.7.42-Instagram236.1/Instagram236.1_Rocket3.7.42.ipa) |
-| Instagram | 257.1 | 3.8.0 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.8.0-Instagram257.1/Instagram257.1_Rocket3.8.0.ipa) |
+| Instagram | 259.0 | 3.8.0 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.8.0-Instagram259.0/Instagram259.0_Rocket3.8.0.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.8.0-Instagram259.0/Instagram259.0_Rocket3.8.0TS.ipa) |
 
 **Note: Instagram v236.1 with Rocket v3.7.42 are the latest versions without the annoying pop up when downloading stuff.**
 
@@ -132,7 +134,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Instagram | 257.1 | 2.50 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Plus2.50-Instagram257.1/Instagram257.1_Plus2.50.ipa) |
+| Instagram | 259.0 | 2.50 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Plus2.50-Instagram259.0/Instagram259.0_Plus2.50.ipa) |
 
 <details>
   <summary>Show features.</summary>
@@ -228,6 +230,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 </details>
 
 ---
+
 ## Spotify
 ### Spotilife
 
@@ -345,7 +348,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 **Note: Using Reddit's latest version compatible with Lizard.**
 
-**Download with RedditFilter v1.0.6: [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Lizard1.9-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9_RedditFilter1.0.6.ipa).**
+**Download with RedditFilter v1.0.8: [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Lizard1.9-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9_RedditFilter1.0.8.ipa).**
 
 <details>
   <summary>Show features.</summary>
@@ -367,11 +370,11 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Reddit | 2022.39.0 | 1.0.6 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditFilter1.0.6-Reddit2022.39.0/Reddit2022.39.0_RedditFilter1.0.6.ipa) |
+| Reddit | 2022.41.0 | 1.0.8 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditFilter1.0.8-Reddit2022.41.0/Reddit2022.41.0_RedditFilter1.0.8.ipa) |
 
 **Note: Using level3tjg's RedditSideloadFix.**
 
-**Download with RedditOldDiscovery v0.0.1: [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditFilter1.0.6-Reddit2022.39.0/Reddit2022.39.0_RedditFilter1.0.6_RedditOldDiscovery0.0.1.ipa).**
+**Download with RedditOldDiscovery v0.0.1: [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditFilter1.0.8-Reddit2022.41.0/Reddit2022.41.0_RedditFilter1.0.8_RedditOldDiscovery0.0.1.ipa).**
   
 <details>
   <summary>Show features.</summary>
@@ -381,6 +384,8 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 - Filter out recommended posts from your feed.
 - Filter out livestreams from your feed.
 - Filter out NFSW posts from your feed.
+- Filter out awards on posts and comments from your feed.
+- Auto collapse AutoMod comments.
 
   </details>
   
@@ -390,7 +395,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Reddit | 2022.39.0 | 0.0.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditOldDiscovery0.0.1-Reddit2022.39.0/Reddit2022.39.0_RedditOldDiscovery0.0.1.ipa) |
+| Reddit | 2022.41.0 | 0.0.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditOldDiscovery0.0.1-Reddit2022.41.0/Reddit2022.41.0_RedditOldDiscovery0.0.1.ipa) |
 
 **Note: Using level3tjg's RedditSideloadFix.**
 
@@ -408,7 +413,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Twitch | 14.0.2 | 0.0.8 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/TwitchAdBlock0.0.8-Twitch14.0.2/Twitch14.0.2_TwitchAdBlock0.0.8.ipa) |
+| Twitch | 14.1 | 0.0.8 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/TwitchAdBlock0.0.8-Twitch14.1/Twitch14.1_TwitchAdBlock0.0.8.ipa) |
 
 <details>
   <summary>Show features.</summary>
@@ -437,7 +442,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
   
   ---
 
-## Tinder 
+## Tinder
 ### Tinder Premium
 
 | App | App Version | Tweak Version | Download |
@@ -454,7 +459,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 ---
 
-## MyFitnessPal  
+## MyFitnessPal
 ### MyFitnessPal Premium Unlock
 
 | App | App Version | Tweak Version | Download |
@@ -471,60 +476,236 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 ---
   
 # Credits
-- [Al4ise](https://github.com/Al4ise) for [Azule](https://github.com/Al4ise/Azule). Couldn't find any links to support them, will update if I do.
 
-- [borishonman](https://github.com/borishonman) for [cydownload](https://github.com/borishonman/cydownload). Couldn't find any links to support them, will update if I do.
+- [Al4ise](https://github.com/Al4ise). Couldn't find any links to support them, will update if I do.
 
-- [opa334](https://github.com/opa334) for [TrollStore](https://github.com/opa334/TrollStore) and [IGSideloadFix](https://github.com/opa334/IGSideloadFix). Support the developer via [PayPal](http://opa334.github.io/donate.html).
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [Azule](https://github.com/Al4ise/Azule).
+  
+	</details>
 
-- [BandarHL](https://github.com/BandarHL) for [BHTwitter](https://github.com/BandarHL/BHTwitter) and [OpenTwitterSafariExtension](https://github.com/BandarHL/OpenTwitterSafariExtension). Support the developer via [PayPal](https://www.paypal.com/paypalme/BandarHL).
 
-- [hashbang](https://github.com/hbang) for [libcephei](https://github.com/hbang/libcephei). Support the developer via [PayPal](https://hashbang.productions/donate).
+- [theosdev](https://github.com/theos). Couldn't find any links to support them, will update if I do.
 
-- [alfhaily](https://twitter.com/freemanrepo) for [Rocket](https://apt.alfhaily.me/depictions/4EYOXC). Support the developer by upgrading to Rocket Pro.
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [Theos](https://theos.dev).
+  
+	</details>
 
-- [Prasa Dev](https://prasa.dev/) for [Plus](https://prasa.dev/repo/depictions/web/?p=prasa.plusfi). Support the developer by upgrading to Premium.
 
-- [Ahmed Bafkir](https://twitter.com/peaceful_0) for DLTikTok. Support the developer via PayPal inside the app.
+- [kabiroberai](https://github.com/kabiroberai). Couldn't find any links to support them, will update if I do.
 
-- [julioverne](https://github.com/julioverne) for [Spotilife](http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife). Support the developer via [Patreon](https://www.patreon.com/julioverne).
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [Theos Jailed](https://github.com/kabiroberai/theos-jailed).
+  
+	</details>
 
-- [aesthyrica](https://github.com/aesthyrica) for [Sposify](https://repo.dynastic.co/package/com.spos). Couldn't find any links to support them, will update if I do.
 
-- [LemaMichael](https://github.com/LemaMichael) for [Wolf](http://cydia.saurik.com/package/com.lema.wolf), [Rhino](http://cydia.saurik.com/package/com.lema.michael.rhino) and [Lizard](http://cydia.saurik.com/package/com.lema.lizard). Support the developer by buying premium licenses.
+- [borishonman](https://github.com/borishonman). Couldn't find any links to support them, will update if I do.
 
-- [level3tjg](https://github.com/level3tjg) for [RedditFilter](https://level3tjg.me/repo/?p=com.level3tjg.redditfilter), [RedditOldDiscovery](https://level3tjg.me/repo/?p=com.level3tjg.redditolddiscovery), [RedditSideloadFix](https://github.com/level3tjg/RedditSideloadFix) and [TwitchAdBlock](https://level3tjg.me/repo/depictions/?p=com.level3tjg.twitchadblock). Support the developer via [Ko-fi](https://ko-fi.com/level3tjg).
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [cydownload](https://github.com/borishonman/cydownload).
+  
+	</details>
 
-- [Rov3r](https://github.com/Rov3r) for [SCMusicPlus](https://github.com/Rov3r/scmusicplus). Couldn't find any links to support them, will update if I do.
 
-- [Ahmedoo94](https://iosgods.com/profile/1871066-ahmedoo94/) for [Tinder Premium](https://repo.hackyouriphone.org/tunderlikes). Support them by becoming an [iOSGods's ViP member](https://iosgods.com/subscriptions).
+- [opa334](https://github.com/opa334). Support the developer via [PayPal](http://opa334.github.io/donate.html).
 
-- [TheArmKing](https://github.com/TheArmKing) for [MyFitnessPal Premium Unlock](https://thearmking.xyz). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/therealarmking).
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [TrollStore](https://github.com/opa334/TrollStore).
+	- [IGSideloadFix](https://github.com/opa334/IGSideloadFix).
+  
+	</details>
 
-- [iOSGods](https://iosgods.com/) for [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us). Support them by becoming an [iOSGods's ViP member](https://iosgods.com/subscriptions).
 
-- [und3fined](https://und3fined.com) for [Decrypt IPA](https://ipa.decrypt.day). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/und3fined).
+- [BandarHL](https://github.com/BandarHL). Support the developer via [PayPal](https://www.paypal.com/paypalme/BandarHL).
 
-- [qnblackcat](https://github.com/qnblackcat/) for [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix) and [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs). Support the developer via [PayPal](https://www.paypal.com/paypalme/qnblackcat).
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [BHTwitter](https://github.com/BandarHL/BHTwitter).
+	- [OpenTwitterSafariExtension](https://github.com/BandarHL/OpenTwitterSafariExtension).
+  
+	</details>
 
-- All jailbreak developers and community for making all this possible.
+
+- [hashbang](https://github.com/hbang). Support the developer via [PayPal](https://hashbang.productions/donate).
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [libcephei](https://github.com/hbang/libcephei).
+  
+	</details>
+
+
+- [alfhaily](https://twitter.com/freemanrepo). Support the developer by upgrading to Rocket Pro.
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [Rocket](https://apt.alfhaily.me/depictions/4EYOXC).
+  
+	</details>
+
+
+- [Prasa Dev](https://prasa.dev/). Support the developer by upgrading to Premium.
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [Plus](https://prasa.dev/repo/depictions/web/?p=prasa.plusfi).
+  
+	</details>
+
+
+- [Ahmed Bafkir](https://twitter.com/peaceful_0). Support the developer via PayPal inside the app.
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- DLTikTok.
+  
+	</details>
+
+
+- [julioverne](https://github.com/julioverne). Support the developer via [Patreon](https://www.patreon.com/julioverne).
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [Spotilife](http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife).
+  
+	</details>
+
+
+- [aesthyrica](https://github.com/aesthyrica). Couldn't find any links to support them, will update if I do.
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [Sposify](https://repo.dynastic.co/package/com.spos).
+  
+	</details>
+
+
+- [LemaMichael](https://github.com/LemaMichael). Support the developer by buying premium licenses.
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [Wolf](http://cydia.saurik.com/package/com.lema.wolf).
+	- [Rhino](http://cydia.saurik.com/package/com.lema.michael.rhino).
+	- [Lizard](http://cydia.saurik.com/package/com.lema.lizard).
+  
+	</details>
+
+
+- [level3tjg](https://github.com/level3tjg). Support the developer via [Ko-fi](https://ko-fi.com/level3tjg).
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [RedditFilter](https://level3tjg.me/repo/?p=com.level3tjg.redditfilter).
+	- [RedditOldDiscovery](https://level3tjg.me/repo/?p=com.level3tjg.redditolddiscovery).
+	- [RedditSideloadFix](https://github.com/level3tjg/RedditSideloadFix).
+	- [TwitchAdBlock](https://level3tjg.me/repo/depictions/?p=com.level3tjg.twitchadblock).
+  
+	</details>
+
+
+- [Rov3r](https://github.com/Rov3r). Couldn't find any links to support them, will update if I do.
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [SCMusicPlus](https://github.com/Rov3r/scmusicplus).
+  
+	</details>
+
+
+- [Ahmedoo94](https://iosgods.com/profile/1871066-ahmedoo94/). Support them by becoming an [iOSGods's ViP member](https://iosgods.com/subscriptions).
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [Tinder Premium](https://repo.hackyouriphone.org/tunderlikes).
+  
+	</details>
+
+
+- [TheArmKing](https://github.com/TheArmKing). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/therealarmking).
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [MyFitnessPal Premium Unlock](https://thearmking.xyz).
+  
+	</details>
+
+
+- [iOSGods](https://iosgods.com/). Support them by becoming an [iOSGods's ViP member](https://iosgods.com/subscriptions).
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us).
+  
+	</details>
+
+
+- [und3fined](https://und3fined.com). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/und3fined).
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [Decrypt IPA](https://ipa.decrypt.day).
+  
+	</details>
+
+
+- [qnblackcat](https://github.com/qnblackcat). Support the developer via [PayPal](https://www.paypal.com/paypalme/qnblackcat).
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix).
+	- [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs).
+  
+	</details>
+
+
+- **All jailbreak developers and community for making all this possible.**
 
 
 # Notes
+
 **ALL CREDITS GOES TO THE DEVELOPERS OF THE TWEAKS, SUPPORT THEM.** The only thing I'm doing is injecting the tweaks into .ipas so that unexperienced users can use them easily.
 
 Developers of these tweaks, if you don't want me to host an .ipa with your tweak injected, contact me and I'll delete it immediately.
 
-All tweaks were injected using [Azule](https://github.com/Al4ise/Azule).
+All tweaks were injected using [Azule](https://github.com/Al4ise/Azule), [Theos](https://theos.dev/) and [Theos Jailed](https://github.com/kabiroberai/theos-jailed).
 
 All tweaks were obtained within their GitHub repos or by fetching .debs via their cydia repos using [cydownload](https://github.com/borishonman/cydownload).
 
-Everything used to generate the injected .ipas are inside each tweak's folder. **Except from the decrypted .ipas**, which are required for proper tweak injection on jailed devices. I will decrypt them by myself once I get access to a jailbroken device or an Apple Silicon Mac. For now, I have to get them from trusted sources like [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us), [Decrypt IPA](https://ipa.decrypt.day) and [qnblackcat](https://github.com/qnblackcat/)'s [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs).
+Everything used to generate the injected .ipas is inside each tweak's folder. **Except from the decrypted .ipas**, which are required for proper tweak injection. I will decrypt them by myself once I get access to a jailbroken device or an Apple Silicon Mac. For the time being, I get them from [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us), [Decrypt IPA](https://ipa.decrypt.day) and [qnblackcat](https://github.com/qnblackcat/)'s [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs).
 
----
+
+# Donation
 
 If you want to make a donation to me (I don't think I deserve it, but if you really want to), you can do that by clicking the donate button. Also, it will show to my parents that all the sleepless nights had a... purpose. [Donate by clicking in this beautiful and long hyperlink](https://www.paypal.com/donate/?business=SKMYRAY32DX6A&no_recurring=1&currency_code=USD).
 
----
+
+# License
 
 This project is licensed under the terms of the GNU General Public License v3.0.
