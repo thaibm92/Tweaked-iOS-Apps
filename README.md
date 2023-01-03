@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _(last update: 05/11/22)_
+**Tweaks injected into iOS apps.** _(last update: 03/12/23)_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -54,9 +54,9 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Twitter | 9.34.1 | 3.2 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/BHTwitter3.2-Twitter9.34.1/Twitter9.34.1_BHTwitter3.2.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/BHTwitter3.2-Twitter9.34.1/Twitter9.34.1_BHTwitter3.2TS.ipa) |
+| Twitter | 9.38 | 3.5 | [Sideload](https://github.com/BandarHL/BHTwitter/releases/download/3.5/Twitter_9.38_BHTwitter_3.5.ipa) & [TrollStore](https://github.com/BandarHL/BHTwitter/releases/download/3.5/Twitter_9.38_BHTwitter_3.5-TrollStore.ipa) |
 
-**Also added: OpenTwitterSafariExtension (enable it in Safari settings) and libcephei (tweak dependency).**
+**BandarHL's latest release features Twitter's latest version, so the download links are from THEIR repository. If it gets outdated, I'll release an update.**
 
 <details>
   <summary>Show features.</summary>
