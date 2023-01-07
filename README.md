@@ -1,10 +1,10 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _(last update: 03/12/23)_
+**Tweaks injected into iOS apps.** _(last update: 06/jan/23)_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
-You also can sideload these with [**Sideloadly**](https://sideloadly.io/), [AltStore](https://altstore.io/) or your preferred sideloading service. **Sideloadly is recommended.**
+You also can sideload these with [**Sideloadly**](https://sideloadly.io/), [AltStore](https://altstore.io/), [SideStore](https://github.com/SideStore/SideStore) or your preferred sideloading service. **Sideloadly is recommended.**
 
 Installing these via TrollStore should make push notifications work on all apps. _and local song importing on Spotify_
 
@@ -54,9 +54,9 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Twitter | 9.38 | 3.5 | [Sideload](https://github.com/BandarHL/BHTwitter/releases/download/3.5/Twitter_9.38_BHTwitter_3.5.ipa) & [TrollStore](https://github.com/BandarHL/BHTwitter/releases/download/3.5/Twitter_9.38_BHTwitter_3.5-TrollStore.ipa) |
+| Twitter | 9.39 | 3.5 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.jan.23/Twitter9.39_BHTwitter3.5.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.jan.23/Twitter9.39_BHTwitter3.5TS.ipa) |
 
-**BandarHL's latest release features Twitter's latest version, so the download links are from THEIR repository. If it gets outdated, I'll release an update.**
+**Also added: OpenTwitterSafariExtension (enable it in Safari settings) and libcephei (tweak dependency).**
 
 <details>
   <summary>Show features.</summary>
@@ -99,9 +99,11 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
 | Instagram | 236.1 | 3.7.42 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.7.42-Instagram236.1/Instagram236.1_Rocket3.7.42.ipa) |
-| Instagram | 259.0 | 3.8.0 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.8.0-Instagram259.0/Instagram259.0_Rocket3.8.0.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.8.0-Instagram259.0/Instagram259.0_Rocket3.8.0TS.ipa) |
+| Instagram | 262.0 | 3.8.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.jan.23/Instagram262.0_Rocket3.8.1.ipa) |
 
 **Note: Instagram v236.1 with Rocket v3.7.42 are the latest versions without the annoying pop up when downloading stuff.**
+
+**Note: Instagram v262.0 is the latest version fully compatible with Rocket v3.8.1.**
 
 **Also: Using opa334's IGSideloadFix.**
 
@@ -319,7 +321,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App | App Version | Tweak Version | Download |
 | :---: | :---: | :---: | :---: |
-| Facebook | 390.1 | 2.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Wolf2.1-Facebook390.1/Facebook390.1_Wolf2.1.ipa) |
+| Facebook | 396.0 | 2.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.jan.23/Facebook396.0_Wolf2.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.jan.23/Facebook396.0_Wolf2.1TS.ipa) |
 
 **Note: Using qnblackcat's FBSideloadFix.**
 
