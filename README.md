@@ -56,7 +56,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 9.42 | 3.7 | [Sideload]() & [TrollStore]() |
+| 9.42 | 3.7 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Twitter9.42_BHTwitter3.7.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Twitter9.42_BHTwitter3.7TS.ipa) |
 
 **Also added: OpenTwitterSafariExtension (enable it in Safari settings) and libcephei (tweak dependency).**
 
@@ -132,7 +132,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
 | 236.1 | 3.7.42 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.7.42-Instagram236.1/Instagram236.1_Rocket3.7.42.ipa) |
-| 267.0 | 3.8.3 | [Sideload]() & [TrollStore]() |
+| 267.0 | 3.8.3 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Instagram267.0_Rocket3.8.3.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Instagram267.0_Rocket3.8.3TS.ipa) |
 
 **Note: Instagram v236.1 with Rocket v3.7.42 are the latest versions without the annoying pop up when downloading stuff.**
 
@@ -165,7 +165,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 267.0 | 2.50 | [Sideload]() & [TrollStore]() |
+| 267.0 | 2.50 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Instagram267.0_Plus2.50.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Instagram267.0_Plus2.50TS.ipa) |
 
 **Also added: libmryipc (tweak dependency).**
 
@@ -242,7 +242,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 26.9.0 | 1.9.3 | [Link]() |
+| 26.9.0 | 1.9.3 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/TikTok26.9.0_DLTikTok1.9.3.ipa) |
 
 **Note: TikTok v27+ doesn't work properly.**
 
