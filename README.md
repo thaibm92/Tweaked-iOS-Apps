@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _(last update: 23/jan/23)_
+**Tweaks injected into iOS apps.** _(last update: 30/jan/23)_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -56,9 +56,9 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 9.40 | 3.7 | [Sideload](https://github.com/BandarHL/BHTwitter/releases/download/3.7/Twitter_9.40_BHTwitter_3.7.ipa) & [TrollStore](https://github.com/BandarHL/BHTwitter/releases/download/3.7/Twitter_9.40_BHTwitter_3.7-TrollStore.ipa) |
+| 9.42 | 3.7 | [Sideload]() & [TrollStore]() |
 
-**Note: BandarHL's latest release features latest Twitter update, so currently the download links are directing to [THEIR REPO](https://github.com/BandarHL/BHTwitter).**
+**Also added: OpenTwitterSafariExtension (enable it in Safari settings) and libcephei (tweak dependency).**
 
 <details>
   <summary>Show features.</summary>
@@ -132,7 +132,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
 | 236.1 | 3.7.42 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.7.42-Instagram236.1/Instagram236.1_Rocket3.7.42.ipa) |
-| 266.0 | 3.8.3 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Instagram266.0_Rocket3.8.3.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Instagram266.0_Rocket3.8.3TS.ipa) |
+| 267.0 | 3.8.3 | [Sideload]() & [TrollStore]() |
 
 **Note: Instagram v236.1 with Rocket v3.7.42 are the latest versions without the annoying pop up when downloading stuff.**
 
@@ -165,7 +165,9 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 259.0 | 2.50 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Plus2.50-Instagram259.0/Instagram259.0_Plus2.50.ipa) |
+| 267.0 | 2.50 | [Sideload]() & [TrollStore]() |
+
+**Also added: libmryipc (tweak dependency).**
 
 <details>
   <summary>Show features.</summary>
@@ -240,7 +242,9 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 26.5.0 | 1.9.3 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/DLTikTok1.9.3-TikTok26.5.0/TikTok26.5.0_DLTikTok1.9.3.ipa) |
+| 26.9.0 | 1.9.3 | [Link]() |
+
+**Note: TikTok v27+ doesn't work properly.**
 
 <details>
   <summary>Show features.</summary>
@@ -602,7 +606,15 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 	- [Plus](https://prasa.dev/repo/depictions/web/?p=prasa.plusfi).
   
 	</details>
+	
+- [Muirey03](https://github.com/Muirey03/). Couldn't find any links to support them, will update if I do.
 
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [libMRYIPC](https://github.com/Muirey03/MRYIPC).
+  
+	</details>
 
 - [Ahmed Bafkir](https://twitter.com/peaceful_0). Support the developer via PayPal inside the app.
 
