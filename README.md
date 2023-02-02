@@ -448,7 +448,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 14.3.2 | 0.0.9-2 | [Link](https://github.com/level3tjg/TwitchAdBlock/releases/download/v14.3.2_0.0.9-2/Twitch_14.3.2_TwitchAdBlock_0.0.9-2.ipa) |
+| 14.4 | 0.0.9-2 | [Link](https://github.com/level3tjg/TwitchAdBlock/releases/download/v14.4_0.0.9-2/Twitch_14.4_TwitchAdBlock_0.0.9-2.ipa) |
 
 **Note: level3tjg's latest release features latest Twitch update, so currently the download link is directing to [THEIR REPO](https://github.com/level3tjg/TwitchAdBlock).**
 
