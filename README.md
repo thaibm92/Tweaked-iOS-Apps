@@ -6,6 +6,8 @@ You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://g
 
 You also can sideload these with [**Sideloadly**](https://sideloadly.io/), [AltStore](https://altstore.io/), [SideStore](https://github.com/SideStore/SideStore) or your preferred sideloading service. **Sideloadly is recommended.**
 
+Add source to AltStore/SideStore/ESign: https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/apps.json
+
 Installing these via TrollStore should make push notifications work on all apps. _and local song importing on Spotify_
 
 Sideloading, you'll only get push notifications using a paid developer account. _not sure about local song importing on Spotify_
