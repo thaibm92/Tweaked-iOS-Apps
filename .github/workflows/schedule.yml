@@ -19,16 +19,16 @@ jobs:
         run: |
           pip install PyGithub pandas
       - name: execute py script # run the run.py to get the latest data
-        env: 
+        env:
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
           GITHUB_TOKEN: ${{ github.token }}
-        working-directory: ./Source
+        working-directory: ./zSource
         run: |
           python generate_json.py -t ${{ secrets.GITHUB_TOKEN }}
       - uses: stefanzweifel/git-auto-commit-action@v4
-        env: 
+        env:
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
