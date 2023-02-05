@@ -1,7 +1,7 @@
 {
     "name": "purp0s3 Tweaked IPA Library",
     "identifier": "xyz.hieuddo.tweakediosapps",
-    "sourceURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/apps.json",
+    "sourceURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/Source/apps.json",
     "apps": [
         {
             "name": "Instagram",
