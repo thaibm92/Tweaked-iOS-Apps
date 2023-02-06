@@ -3,6 +3,17 @@
 
 ---
 
+**05/feb/23**
+- Added [AltStore/SideStore/ESign repository](https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/apps.json).
+- Instagram | Rocket updated to v267.0 | v3.8.4.
+- Spotify | Spotilife updated to v8.8.6 | v1.8.
+- Facebook | Wolf updated to v400.0 | v2.1.
+- Lizard | RedditFilter updated to v1.9 | v1.1.1.
+- RedditFilter | RedditOldDiscovery updated to v1.1.1 | v0.0.2.
+- Removed Tinder until a hack that works is released.
+
+---
+
 **30/jan/23**
 - Twitter | BHTwitter updated to v9.42 | v3.7.
 - Instagram | Rocket updated to v267.0 | v3.8.3.

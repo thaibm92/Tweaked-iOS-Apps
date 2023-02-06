@@ -1,12 +1,12 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _(last update: 05/feb/23)_
+**Tweaks injected into iOS apps.** _(last update: 06/feb/23)_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
 You also can sideload these with [**Sideloadly**](https://sideloadly.io/), [AltStore](https://altstore.io/), [SideStore](https://github.com/SideStore/SideStore) or your preferred sideloading service. **Sideloadly is recommended.**
 
-[Add source to AltStore/SideStore/ESign](https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/apps.json). (thanks to @hieuddo)
+**Add source to AltStore/SideStore/ESign: https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/apps.json.** _(thanks to [@hieuddo](https://github.com/hieuddo))_
 
 Installing these via TrollStore should make push notifications work on all apps. _and local song importing on Spotify_
 
@@ -18,33 +18,34 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 # Table of contents
 
-- [Twitter](#twitter)
-	- [BHTwitter](#bhtwitter)
-- [Youtube](#youtube)
-	- [uYouPlus](#uyouplus)
-- [Instagram](#instagram)
-	- [Rocket](#rocket)
-	- [Plus](#plus)
-	- [Rhino](#rhino)
-- [TikTok](#tiktok)
-	- [DLTikTok](#dltiktok)
-- [Spotify](#spotify)
-	- [Spotilife](#spotilife)
-	- [Spotilife & Sposify](#spotilife--sposify)
-- [Facebook](#facebook)
-	- [Wolf](#wolf)
-- [Reddit](#reddit)
-	- [Lizard](#lizard)
-	- [RedditFilter](#redditfilter)
-	- [RedditOldDiscovery](#redditolddiscovery)
-- [Twitch](#twitch)
-	- [TwitchAdBlock](#twitchadblock)
-- [SoundCloud](#soundcloud)
-	- [SCMusicPlus](#scmusicplus)
-- [Tinder](#tinder)
-	- [Tinder Premium](#tinder-premium)
-- [MyFitnessPal](#myfitnesspal)
-	- [MyFitnessPal Premium Unlock](#myfitnesspal-premium-unlock)
+- [Tweaked iOS Apps](#tweaked-ios-apps)
+- [Table of contents](#table-of-contents)
+- [Tweaks](#tweaks)
+	- [Twitter](#twitter)
+		- [BHTwitter](#bhtwitter)
+	- [Youtube](#youtube)
+		- [uYouPlus](#uyouplus)
+	- [Instagram](#instagram)
+		- [Rocket](#rocket)
+		- [Plus](#plus)
+		- [Rhino](#rhino)
+	- [TikTok](#tiktok)
+		- [DLTikTok](#dltiktok)
+	- [Spotify](#spotify)
+		- [Spotilife](#spotilife)
+		- [Spotilife \& Sposify](#spotilife--sposify)
+	- [Facebook](#facebook)
+		- [Wolf](#wolf)
+	- [Reddit](#reddit)
+		- [Lizard](#lizard)
+		- [RedditFilter](#redditfilter)
+		- [RedditOldDiscovery](#redditolddiscovery)
+	- [Twitch](#twitch)
+		- [TwitchAdBlock](#twitchadblock)
+	- [SoundCloud](#soundcloud)
+		- [SCMusicPlus](#scmusicplus)
+	- [MyFitnessPal](#myfitnesspal)
+		- [MyFitnessPal Premium Unlock](#myfitnesspal-premium-unlock)
 - [Credits](#credits)
 - [Notes](#notes)
 - [Donation](#donation)
@@ -135,7 +136,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
 | 236.1 | 3.7.42 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.7.42-Instagram236.1/Instagram236.1_Rocket3.7.42.ipa) |
-| 267.0 | 3.8.3 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Instagram267.0_Rocket3.8.3.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Instagram267.0_Rocket3.8.3TS.ipa) |
+| 267.0 | 3.8.4 | [Sideload]() & [TrollStore]() |
 
 **Note: Instagram v236.1 with Rocket v3.7.42 are the latest versions without the annoying pop up when downloading stuff.**
 
@@ -274,7 +275,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 8.8.2 | 1.8 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Spotify8.8.2_Spotilife1.8.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Spotify8.8.2_Spotilife1.8TS.ipa) |
+| 8.8.6 | 1.8 | [Sideload]() & [TrollStore]() |
 
 <details>
   <summary>Show features.</summary>
@@ -357,7 +358,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 398.0 | 2.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Facebook398.0_Wolf2.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Facebook398.0_Wolf2.1TS.ipa) |
+| 400.0 | 2.1 | [Sideload]() & [TrollStore]() |
 
 **Note: Using qnblackcat's FBSideloadFix.**
 
@@ -386,7 +387,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 **Note: Using Reddit's latest version compatible with Lizard.**
 
-**Download with RedditFilter v1.1: [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Reddit2021.12.0_Lizard1.9_RedditFilter1.1.ipa).**
+**Download with RedditFilter v1.1.1: [Link]().**
 
 <details>
   <summary>Show features.</summary>
@@ -408,11 +409,11 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 2023.02.0 | 1.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Reddit2023.02.0_RedditFilter1.1.ipa) |
+| 2023.04.0 | 1.1.1 | [Link]() |
 
 **Note: Using level3tjg's RedditSideloadFix.**
 
-**Download with RedditOldDiscovery v0.0.1: [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Reddit2023.02.0_RedditFilter1.1_RedditOldDiscovery0.0.1.ipa).**
+**Download with RedditOldDiscovery v0.0.2: [Link]().**
   
 <details>
   <summary>Show features.</summary>
@@ -433,7 +434,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 2023.02.0 | 0.0.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Reddit2023.02.0_RedditOldDiscovery0.0.1.ipa) |
+| 2023.04.0 | 0.0.2 | [Link]() |
 
 **Note: Using level3tjg's RedditSideloadFix.**
 
@@ -482,23 +483,6 @@ Sideloading, you'll only get push notifications using a paid developer account. 
   
   </details>
   
-  ---
-
-## Tinder
-### Tinder Premium
-
-| App Version | Tweak Version | Download |
-| :---: | :---: | :---: |
-| 13.19.0 | 1.0.0 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Tinder13.19.0-Premium/Tinder13.19.0_Premium.ipa) |
-
-<details>
-  <summary>Show features.</summary>
-  
-- No blurred photos.
-- Unlimited likes.
-  
-</details>
-
 ---
 
 ## MyFitnessPal
@@ -680,16 +664,6 @@ Sideloading, you'll only get push notifications using a paid developer account. 
  	<summary>Show stuff.</summary>
   
 	- [SCMusicPlus](https://github.com/Rov3r/scmusicplus).
-  
-	</details>
-
-
-- [Ahmedoo94](https://iosgods.com/profile/1871066-ahmedoo94/). Support them by becoming an [iOSGods's ViP member](https://iosgods.com/subscriptions).
-
-	<details>
- 	<summary>Show stuff.</summary>
-  
-	- [Tinder Premium](https://repo.hackyouriphone.org/tunderlikes).
   
 	</details>
 
