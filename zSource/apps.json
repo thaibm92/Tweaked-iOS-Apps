@@ -4,6 +4,116 @@
     "sourceURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/apps.json",
     "apps": [
         {
+            "name": "Facebook",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "400.0",
+            "versionDate": "2023-02-06",
+            "size": 139684791,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Facebook400.0_Wolf2.1.ipa",
+            "developerName": "",
+            "localizedDescription": "Wolf2.1",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "Facebook",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "version": "400.0",
+            "versionDate": "2023-02-06",
+            "size": 135794113,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Facebook400.0_Wolf2.1TS.ipa",
+            "developerName": "",
+            "localizedDescription": "For TrollStore, injected with Wolf2.1",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "Instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "267.0",
+            "versionDate": "2023-02-06",
+            "size": 123238513,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Instagram267.0_Rocket3.8.4.ipa",
+            "developerName": "",
+            "localizedDescription": "Rocket3.8.4",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "Instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "267.0",
+            "versionDate": "2023-02-06",
+            "size": 123340646,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Instagram267.0_Rocket3.8.4TS.ipa",
+            "developerName": "",
+            "localizedDescription": "For TrollStore, injected with Rocket3.8.4",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "Reddit",
+            "bundleIdentifier": "com.reddit.Reddit",
+            "version": "2021.12.0",
+            "versionDate": "2023-02-06",
+            "size": 82811131,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Reddit2021.12.0_Lizard1.9_RedditFilter1.1.1.ipa",
+            "developerName": "",
+            "localizedDescription": "Lizard1.9_RedditFilter1.1.1",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "Reddit",
+            "bundleIdentifier": "com.reddit.Reddit",
+            "version": "2023.04",
+            "versionDate": "2023-02-06",
+            "size": 125167746,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Reddit2023.04_RedditFilter1.1.1.ipa",
+            "developerName": "",
+            "localizedDescription": "RedditFilter1.1.1",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "Reddit",
+            "bundleIdentifier": "com.reddit.Reddit",
+            "version": "2023.04",
+            "versionDate": "2023-02-06",
+            "size": 125169802,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Reddit2023.04_RedditFilter1.1.1_RedditOldDiscovery0.0.2.ipa",
+            "developerName": "",
+            "localizedDescription": "RedditFilter1.1.1_RedditOldDiscovery0.0.2",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "Reddit",
+            "bundleIdentifier": "com.reddit.Reddit",
+            "version": "2023.04",
+            "versionDate": "2023-02-06",
+            "size": 125156652,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Reddit2023.04_RedditOldDiscovery0.0.2.ipa",
+            "developerName": "",
+            "localizedDescription": "RedditOldDiscovery0.0.2",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "Spotify",
+            "bundleIdentifier": "com.spotify.client.watchkitapp",
+            "version": "8.8.6",
+            "versionDate": "2023-02-06",
+            "size": 72789959,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Spotify8.8.6_Spotilife1.8.ipa",
+            "developerName": "",
+            "localizedDescription": "Spotilife1.8",
+            "iconURL": "about:blank"
+        },
+        {
+            "name": "Spotify",
+            "bundleIdentifier": "com.spotify.client.watchkitapp",
+            "version": "8.8.6",
+            "versionDate": "2023-02-06",
+            "size": 72798072,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Spotify8.8.6_Spotilife1.8TS.ipa",
+            "developerName": "",
+            "localizedDescription": "For TrollStore, injected with Spotilife1.8",
+            "iconURL": "about:blank"
+        },
+        {
             "name": "Instagram",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "267.0",
