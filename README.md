@@ -136,7 +136,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
 | 236.1 | 3.7.42 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.7.42-Instagram236.1/Instagram236.1_Rocket3.7.42.ipa) |
-| 267.0 | 3.8.4 | [Sideload]() & [TrollStore]() |
+| 267.0 | 3.8.4 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Instagram267.0_Rocket3.8.4.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Instagram267.0_Rocket3.8.4TS.ipa) |
 
 **Note: Instagram v236.1 with Rocket v3.7.42 are the latest versions without the annoying pop up when downloading stuff.**
 
@@ -275,7 +275,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 8.8.6 | 1.8 | [Sideload]() & [TrollStore]() |
+| 8.8.6 | 1.8 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Spotify8.8.6_Spotilife1.8.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Spotify8.8.6_Spotilife1.8TS.ipa) |
 
 <details>
   <summary>Show features.</summary>
@@ -358,7 +358,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 400.0 | 2.1 | [Sideload]() & [TrollStore]() |
+| 400.0 | 2.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Facebook400.0_Wolf2.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Facebook400.0_Wolf2.1TS.ipa) |
 
 **Note: Using qnblackcat's FBSideloadFix.**
 
@@ -387,7 +387,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 **Note: Using Reddit's latest version compatible with Lizard.**
 
-**Download with RedditFilter v1.1.1: [Link]().**
+**Download with RedditFilter v1.1.1: [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Reddit2021.12.0_Lizard1.9_RedditFilter1.1.1.ipa).**
 
 <details>
   <summary>Show features.</summary>
@@ -409,11 +409,11 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 2023.04.0 | 1.1.1 | [Link]() |
+| 2023.04.0 | 1.1.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Reddit2023.04_RedditFilter1.1.1.ipa) |
 
 **Note: Using level3tjg's RedditSideloadFix.**
 
-**Download with RedditOldDiscovery v0.0.2: [Link]().**
+**Download with RedditOldDiscovery v0.0.2: [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Reddit2023.04_RedditFilter1.1.1_RedditOldDiscovery0.0.2.ipa).**
   
 <details>
   <summary>Show features.</summary>
@@ -434,7 +434,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 2023.04.0 | 0.0.2 | [Link]() |
+| 2023.04.0 | 0.0.2 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Reddit2023.04_RedditOldDiscovery0.0.2.ipa) |
 
 **Note: Using level3tjg's RedditSideloadFix.**
 

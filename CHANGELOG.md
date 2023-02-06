@@ -3,7 +3,7 @@
 
 ---
 
-**05/feb/23**
+**06/feb/23**
 - Added [AltStore/SideStore/ESign repository](https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/apps.json).
 - Instagram | Rocket updated to v267.0 | v3.8.4.
 - Spotify | Spotilife updated to v8.8.6 | v1.8.
