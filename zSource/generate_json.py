@@ -60,7 +60,7 @@ if __name__ == "__main__":
                     "downloadURL": asset.browser_download_url,
                     "developerName": "",
                     "localizedDescription": tweaks,
-                    "iconURL": "about:blank"
+                    "iconURL": f"https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/{bundle_id}.png"
                 }
             )
 

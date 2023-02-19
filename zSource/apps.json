@@ -12,7 +12,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Facebook400.0_Wolf2.1.ipa",
             "developerName": "",
             "localizedDescription": "Wolf2.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.facebook.Facebook.png"
         },
         {
             "name": "Facebook",
@@ -23,7 +23,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Facebook400.0_Wolf2.1TS.ipa",
             "developerName": "",
             "localizedDescription": "For TrollStore, injected with Wolf2.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.facebook.Facebook.png"
         },
         {
             "name": "Instagram",
@@ -34,7 +34,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Instagram267.0_Rocket3.8.4.ipa",
             "developerName": "",
             "localizedDescription": "Rocket3.8.4",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
         },
         {
             "name": "Instagram",
@@ -45,7 +45,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Instagram267.0_Rocket3.8.4TS.ipa",
             "developerName": "",
             "localizedDescription": "For TrollStore, injected with Rocket3.8.4",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
         },
         {
             "name": "Reddit",
@@ -56,7 +56,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Reddit2021.12.0_Lizard1.9_RedditFilter1.1.1.ipa",
             "developerName": "",
             "localizedDescription": "Lizard1.9_RedditFilter1.1.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.reddit.Reddit.png"
         },
         {
             "name": "Reddit",
@@ -67,7 +67,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Reddit2023.04_RedditFilter1.1.1.ipa",
             "developerName": "",
             "localizedDescription": "RedditFilter1.1.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.reddit.Reddit.png"
         },
         {
             "name": "Reddit",
@@ -78,7 +78,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Reddit2023.04_RedditFilter1.1.1_RedditOldDiscovery0.0.2.ipa",
             "developerName": "",
             "localizedDescription": "RedditFilter1.1.1_RedditOldDiscovery0.0.2",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.reddit.Reddit.png"
         },
         {
             "name": "Reddit",
@@ -89,7 +89,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Reddit2023.04_RedditOldDiscovery0.0.2.ipa",
             "developerName": "",
             "localizedDescription": "RedditOldDiscovery0.0.2",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.reddit.Reddit.png"
         },
         {
             "name": "Spotify",
@@ -100,7 +100,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Spotify8.8.6_Spotilife1.8.ipa",
             "developerName": "",
             "localizedDescription": "Spotilife1.8",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.spotify.client.watchkitapp.png"
         },
         {
             "name": "Spotify",
@@ -111,7 +111,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Spotify8.8.6_Spotilife1.8TS.ipa",
             "developerName": "",
             "localizedDescription": "For TrollStore, injected with Spotilife1.8",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.spotify.client.watchkitapp.png"
         },
         {
             "name": "Instagram",
@@ -122,7 +122,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Instagram267.0_Plus2.50.ipa",
             "developerName": "",
             "localizedDescription": "Plus2.50",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
         },
         {
             "name": "Instagram",
@@ -133,7 +133,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Instagram267.0_Plus2.50TS.ipa",
             "developerName": "",
             "localizedDescription": "For TrollStore, injected with Plus2.50",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
         },
         {
             "name": "Instagram",
@@ -144,7 +144,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Instagram267.0_Rocket3.8.3.ipa",
             "developerName": "",
             "localizedDescription": "Rocket3.8.3",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
         },
         {
             "name": "Instagram",
@@ -155,7 +155,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Instagram267.0_Rocket3.8.3TS.ipa",
             "developerName": "",
             "localizedDescription": "For TrollStore, injected with Rocket3.8.3",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
         },
         {
             "name": "TikTok",
@@ -166,7 +166,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/TikTok26.9.0_DLTikTok1.9.3.ipa",
             "developerName": "",
             "localizedDescription": "DLTikTok1.9.3",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "Twitter",
@@ -177,7 +177,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Twitter9.42_BHTwitter3.7.ipa",
             "developerName": "",
             "localizedDescription": "BHTwitter3.7",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "Twitter",
@@ -188,7 +188,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Twitter9.42_BHTwitter3.7TS.ipa",
             "developerName": "",
             "localizedDescription": "For TrollStore, injected with BHTwitter3.7",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "Facebook",
@@ -199,7 +199,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Facebook398.0_Wolf2.1.ipa",
             "developerName": "",
             "localizedDescription": "Wolf2.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.facebook.Facebook.png"
         },
         {
             "name": "Facebook",
@@ -210,7 +210,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Facebook398.0_Wolf2.1TS.ipa",
             "developerName": "",
             "localizedDescription": "For TrollStore, injected with Wolf2.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.facebook.Facebook.png"
         },
         {
             "name": "Instagram",
@@ -221,7 +221,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Instagram266.0_Rocket3.8.3.ipa",
             "developerName": "",
             "localizedDescription": "Rocket3.8.3",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
         },
         {
             "name": "Instagram",
@@ -232,7 +232,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Instagram266.0_Rocket3.8.3TS.ipa",
             "developerName": "",
             "localizedDescription": "For TrollStore, injected with Rocket3.8.3",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
         },
         {
             "name": "Reddit",
@@ -243,7 +243,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Reddit2021.12.0_Lizard1.9_RedditFilter1.1.ipa",
             "developerName": "",
             "localizedDescription": "Lizard1.9_RedditFilter1.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.reddit.Reddit.png"
         },
         {
             "name": "Reddit",
@@ -254,7 +254,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Reddit2023.02.0_RedditFilter1.1.ipa",
             "developerName": "",
             "localizedDescription": "RedditFilter1.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.reddit.Reddit.png"
         },
         {
             "name": "Reddit",
@@ -265,7 +265,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Reddit2023.02.0_RedditFilter1.1_RedditOldDiscovery0.0.1.ipa",
             "developerName": "",
             "localizedDescription": "RedditFilter1.1_RedditOldDiscovery0.0.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.reddit.Reddit.png"
         },
         {
             "name": "Reddit",
@@ -276,7 +276,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Reddit2023.02.0_RedditOldDiscovery0.0.1.ipa",
             "developerName": "",
             "localizedDescription": "RedditOldDiscovery0.0.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.reddit.Reddit.png"
         },
         {
             "name": "Spotify",
@@ -287,7 +287,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Spotify8.8.2_Spotilife1.8.ipa",
             "developerName": "",
             "localizedDescription": "Spotilife1.8",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.spotify.client.watchkitapp.png"
         },
         {
             "name": "Spotify",
@@ -298,7 +298,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/23.jan.23/Spotify8.8.2_Spotilife1.8TS.ipa",
             "developerName": "",
             "localizedDescription": "For TrollStore, injected with Spotilife1.8",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.spotify.client.watchkitapp.png"
         },
         {
             "name": "Facebook",
@@ -309,7 +309,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.jan.23/Facebook396.0_Wolf2.1.ipa",
             "developerName": "",
             "localizedDescription": "Wolf2.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.facebook.Facebook.png"
         },
         {
             "name": "Facebook",
@@ -320,7 +320,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.jan.23/Facebook396.0_Wolf2.1TS.ipa",
             "developerName": "",
             "localizedDescription": "For TrollStore, injected with Wolf2.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.facebook.Facebook.png"
         },
         {
             "name": "Instagram",
@@ -331,7 +331,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.jan.23/Instagram262.0_Rocket3.8.1.ipa",
             "developerName": "",
             "localizedDescription": "Rocket3.8.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
         },
         {
             "name": "Twitter",
@@ -342,7 +342,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.jan.23/Twitter9.39_BHTwitter3.5.ipa",
             "developerName": "",
             "localizedDescription": "BHTwitter3.5",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "Twitter",
@@ -353,7 +353,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.jan.23/Twitter9.39_BHTwitter3.5TS.ipa",
             "developerName": "",
             "localizedDescription": "For TrollStore, injected with BHTwitter3.5",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "Twitch",
@@ -364,7 +364,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/TwitchAdBlock0.0.8-Twitch14.1/Twitch14.1_TwitchAdBlock0.0.8.ipa",
             "developerName": "",
             "localizedDescription": "TwitchAdBlock0.0.8",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/tv.twitch.png"
         },
         {
             "name": "Instagram",
@@ -375,7 +375,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.8.0-Instagram259.0/Instagram259.0_Rocket3.8.0.ipa",
             "developerName": "",
             "localizedDescription": "Rocket3.8.0",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
         },
         {
             "name": "Instagram",
@@ -386,7 +386,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.8.0-Instagram259.0/Instagram259.0_Rocket3.8.0TS.ipa",
             "developerName": "",
             "localizedDescription": "For TrollStore, injected with Rocket3.8.0",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
         },
         {
             "name": "Reddit",
@@ -397,7 +397,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditOldDiscovery0.0.1-Reddit2022.41.0/Reddit2022.41.0_RedditOldDiscovery0.0.1.ipa",
             "developerName": "",
             "localizedDescription": "RedditOldDiscovery0.0.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.reddit.Reddit.png"
         },
         {
             "name": "Reddit",
@@ -408,7 +408,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditFilter1.0.8-Reddit2022.41.0/Reddit2022.41.0_RedditFilter1.0.8.ipa",
             "developerName": "",
             "localizedDescription": "RedditFilter1.0.8",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.reddit.Reddit.png"
         },
         {
             "name": "Reddit",
@@ -419,7 +419,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditFilter1.0.8-Reddit2022.41.0/Reddit2022.41.0_RedditFilter1.0.8_RedditOldDiscovery0.0.1.ipa",
             "developerName": "",
             "localizedDescription": "RedditFilter1.0.8_RedditOldDiscovery0.0.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.reddit.Reddit.png"
         },
         {
             "name": "Instagram",
@@ -430,7 +430,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Plus2.50-Instagram259.0/Instagram259.0_Plus2.50.ipa",
             "developerName": "",
             "localizedDescription": "Plus2.50",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
         },
         {
             "name": "Twitter",
@@ -441,7 +441,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/BHTwitter3.2-Twitter9.34.1/Twitter9.34.1_BHTwitter3.2.ipa",
             "developerName": "",
             "localizedDescription": "BHTwitter3.2",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "Twitter",
@@ -452,7 +452,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/BHTwitter3.2-Twitter9.34.1/Twitter9.34.1_BHTwitter3.2TS.ipa",
             "developerName": "",
             "localizedDescription": "For TrollStore, injected with BHTwitter3.2",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "Tinder",
@@ -463,7 +463,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Tinder13.19.0-Premium/Tinder13.19.0_Premium.ipa",
             "developerName": "",
             "localizedDescription": "Premium",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.cardify.tinder.png"
         },
         {
             "name": "Facebook",
@@ -474,7 +474,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Wolf2.1-Facebook390.1/Facebook390.1_Wolf2.1.ipa",
             "developerName": "",
             "localizedDescription": "Wolf2.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.facebook.Facebook.png"
         },
         {
             "name": "Twitch",
@@ -485,7 +485,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/TwitchAdBlock0.0.8-Twitch14.0.2/Twitch14.0.2_TwitchAdBlock0.0.8.ipa",
             "developerName": "",
             "localizedDescription": "TwitchAdBlock0.0.8",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/tv.twitch.png"
         },
         {
             "name": "Spotify",
@@ -496,7 +496,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Spotilife1.8-Spotify8.7.70/Spotify8.7.70_Spotilife1.8.ipa",
             "developerName": "",
             "localizedDescription": "Spotilife1.8",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.spotify.client.watchkitapp.png"
         },
         {
             "name": "Spotify",
@@ -507,7 +507,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Spotilife1.8-Sposify8.5.52-Spotify8.5.60/Spotify8.5.60_Spotilife1.8_Sposify8.5.52.ipa",
             "developerName": "",
             "localizedDescription": "Spotilife1.8_Sposify8.5.52",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.spotify.client.watchkitapp.png"
         },
         {
             "name": "SoundCloud",
@@ -518,7 +518,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/SCMusicPlus2.2.1-SoundCloud6.10.0/SoundCloud6.10.0_SCMusicPlus2.2.1.ipa",
             "developerName": "",
             "localizedDescription": "SCMusicPlus2.2.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.soundcloud.TouchApp.png"
         },
         {
             "name": "Instagram",
@@ -529,7 +529,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.8.0-Instagram257.1/Instagram257.1_Rocket3.8.0.ipa",
             "developerName": "",
             "localizedDescription": "Rocket3.8.0",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
         },
         {
             "name": "Instagram",
@@ -540,7 +540,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.7.42-Instagram236.1/Instagram236.1_Rocket3.7.42.ipa",
             "developerName": "",
             "localizedDescription": "Rocket3.7.42",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
         },
         {
             "name": "Instagram",
@@ -551,7 +551,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rhino3.8.1-Instagram187.0/Instagram187.0_Rhino3.8.1.ipa",
             "developerName": "",
             "localizedDescription": "Rhino3.8.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
         },
         {
             "name": "Reddit",
@@ -562,7 +562,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditOldDiscovery0.0.1-Reddit2022.39.0/Reddit2022.39.0_RedditOldDiscovery0.0.1.ipa",
             "developerName": "",
             "localizedDescription": "RedditOldDiscovery0.0.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.reddit.Reddit.png"
         },
         {
             "name": "Reddit",
@@ -573,7 +573,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditFilter1.0.6-Reddit2022.39.0/Reddit2022.39.0_RedditFilter1.0.6.ipa",
             "developerName": "",
             "localizedDescription": "RedditFilter1.0.6",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.reddit.Reddit.png"
         },
         {
             "name": "Reddit",
@@ -584,7 +584,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/RedditFilter1.0.6-Reddit2022.39.0/Reddit2022.39.0_RedditFilter1.0.6_RedditOldDiscovery0.0.1.ipa",
             "developerName": "",
             "localizedDescription": "RedditFilter1.0.6_RedditOldDiscovery0.0.1",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.reddit.Reddit.png"
         },
         {
             "name": "Instagram",
@@ -595,7 +595,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Plus2.50-Instagram257.1/Instagram257.1_Plus2.50.ipa",
             "developerName": "",
             "localizedDescription": "Plus2.50",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
         },
         {
             "name": "MyFitnessPal",
@@ -606,7 +606,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/MyFitnessPal22.20.0-MFPPremiumUnlock/MyFitnessPal22.20.0_MFPPremiumUnlock.ipa",
             "developerName": "",
             "localizedDescription": "MFPPremiumUnlock",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.myfitnesspal.mfp.watchkitapp.png"
         },
         {
             "name": "Reddit",
@@ -617,7 +617,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Lizard1.9-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9.ipa",
             "developerName": "",
             "localizedDescription": "Lizard1.9",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.reddit.Reddit.png"
         },
         {
             "name": "Reddit",
@@ -628,7 +628,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Lizard1.9-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9_RedditFilter1.0.8.ipa",
             "developerName": "",
             "localizedDescription": "Lizard1.9_RedditFilter1.0.8",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.reddit.Reddit.png"
         },
         {
             "name": "TikTok",
@@ -639,7 +639,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/DLTikTok1.9.3-TikTok26.5.0/TikTok26.5.0_DLTikTok1.9.3.ipa",
             "developerName": "",
             "localizedDescription": "DLTikTok1.9.3",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.zhiliaoapp.musically.png"
         },
         {
             "name": "Twitter",
@@ -650,7 +650,7 @@
             "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/BHTwitter3.2-Twitter9.34/Twitter9.34_BHTwitter3.2.ipa",
             "developerName": "",
             "localizedDescription": "BHTwitter3.2",
-            "iconURL": "about:blank"
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.atebits.Tweetie2.png"
         }
     ]
 }
