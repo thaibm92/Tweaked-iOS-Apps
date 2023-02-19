@@ -39,7 +39,7 @@ def get_single_bundle_id(url, name="temp.ipa"):
                 except:
                     # index [0] out-of-range: empty icon list
                     return bundleId
-            elif "CFBundleIcons" in pl.keys():
+            if "CFBundleIcons" in pl.keys():
                 try:
                     icon_prefix = pl["CFBundleIcons"]["CFBundlePrimaryIcon"]["CFBundleIconFiles"][0]
                 except:
