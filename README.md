@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _(last update: 06/feb/23)_
+**Tweaks injected into iOS apps.** _(last update: 26/feb/23)_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -25,6 +25,8 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 		- [BHTwitter](#bhtwitter)
 	- [Youtube](#youtube)
 		- [uYouPlus](#uyouplus)
+	- [WhatsApp](#whatsapp)
+		- [Watusi](#watusi)
 	- [Instagram](#instagram)
 		- [Rocket](#rocket)
 		- [Plus](#plus)
@@ -60,7 +62,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 9.42 | 3.7 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Twitter9.42_BHTwitter3.7.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Twitter9.42_BHTwitter3.7TS.ipa) |
+| 9.46 | 3.7 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/01.mar.23/Twitter9.46_BHTwitter3.7.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/01.mar.23/Twitter9.46_BHTwitter3.7TS.ipa) |
 
 **Also added: OpenTwitterSafariExtension (enable it in Safari settings) and libcephei (tweak dependency).**
 
@@ -104,9 +106,9 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 18.01.6 | 2.3.1 | [Link](https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa) |
+| v18.08.1 | 2.3.1 | [Link](https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa) |
 
-**Note: This app is maintained by [qnblackcat](https://github.com/qnblackcat). All developers, contributors, commmits, changelog and more can be checked on [THEIR REPO](https://github.com/qnblackcat/uYouPlus). The download link is directing to the repo's latest release.**
+**Note: This tweak is maintained by [qnblackcat](https://github.com/qnblackcat). All developers, contributors, commmits, changelog and more can be checked on [THEIR REPO](https://github.com/qnblackcat/uYouPlus). The download link is directing to the repo's latest release.**
 
 <details>
   <summary>Show features.</summary>
@@ -120,11 +122,34 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 - **YTNoHoverCards:** offer an option to enable/disable the annoying suggested videos show up at the end of the videos.
 - **YouRememberCaption**: make YouTube remember your video caption setting (if not already).
 - **NoYTPremium**: remove YouTube Premium upsells.
-- **YTSpeed**: add 2.25, 2.5, 2.75, and 3x playback speed
+- **YTSpeed**: add 2.25, 2.5, 2.75, and 3x playback speed.
 - **YTMiniplayerEnabler**: enable Miniplayer for all YouTube videos.
 - **DontEatMyContent**: prevent the notch/Dynamic Island from munching on 2:1 video content in YouTube.
 - **YTShortsProgress**: always enable progress bar and scrubbing in YouTube Shorts (iPhone only).
 - **YTABConfig**: allow user to control over YouTube A/B testing flags.
+
+</details>
+
+---
+
+## WhatsApp
+### Watusi 
+_with Stalky & OnlineNotify_
+
+| App Version | Tweak Versions | Download |
+| :---: | :---: | :---: |
+| v23.2.75 | 1.1.50 & 4.1.19 & 3.4.0 | [Sideload](https://mega.nz/file/gbZxCJ6R#DFKaYYO6I9JgYU1i2VmUbvlunzSovxL1ZMS5yvVoV-E) & [TrollStore](https://mega.nz/file/MOZzHDJR#-U8U37GpnIFSAe4s74eZhZbHw3j-MIIad9DR84dqac8) |
+
+Other versions available: 
+- WA Duplicate: [Sideload](https://mega.nz/file/QWAUECqR#bpum6o2oaSUU0QRSWIvkHtF-i_NfuKfZHORGMlUHW7Q).
+- WA Business: [Sideload](https://mega.nz/file/xLhGFCiI#tA5Fa2kp5ejGQJVomZe6U8HnAznuZAkVHGkopvFeu14) | [TrollStore](https://mega.nz/file/ADQT1bKb#R05k9qekzhg1E_RLOEoRSHysLN3TS-3zG2lV1Z3xkh4).
+
+**Note: This tweak is maintained by [FouadRaheb](https://fouadraheb.com/), from [THEIR REPO](https://github.com/FouadRaheb/Watusi-for-WhatsApp). The download link is directing to the repo's latest release.**
+
+<details>
+  <summary>Show features.</summary>
+
+- [There's a lot of them](https://watusi.fouadraheb.com/#features).
 
 </details>
 
@@ -136,7 +161,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
 | 236.1 | 3.7.42 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.7.42-Instagram236.1/Instagram236.1_Rocket3.7.42.ipa) |
-| 267.0 | 3.8.4 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Instagram267.0_Rocket3.8.4.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Instagram267.0_Rocket3.8.4TS.ipa) |
+| 272.0 | 3.8.5 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/01.mar.23/Instagram272.0_Rocket3.8.5.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/01.mar.23/Instagram272.0_Rocket3.8.5TS.ipa) |
 
 **Note: Instagram v236.1 with Rocket v3.7.42 are the latest versions without the annoying pop up when downloading stuff.**
 
@@ -169,7 +194,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 267.0 | 2.50 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Instagram267.0_Plus2.50.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/Instagram267.0_Plus2.50TS.ipa) |
+| 272.0 | 2.50 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/01.mar.23/Instagram272.0_Plus2.50.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/01.mar.23/Instagram272.0_Plus2.50TS.ipa) |
 
 **Also added: libmryipc (tweak dependency).**
 
@@ -706,6 +731,17 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 	- [uYouPlus](https://github.com/qnblackcat/uYouPlus).
 	- [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix).
 	- [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs).
+  
+	</details>
+
+
+- [FouadRaheb](https://fouadraheb.com/). Support the developer by buying premium licenses.
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [Watusi](https://github.com/FouadRaheb/Watusi-for-WhatsApp).
+	- [Stalky & OnlineNotify](https://fouadraheb.com/portfolio).
   
 	</details>
 

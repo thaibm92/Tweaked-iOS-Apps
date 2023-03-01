@@ -3,6 +3,15 @@
 
 ---
 
+**01/mar/23**
+- Added WhatsApp v23.2.75 | Watusi & Stalky & OnlineNotify v1.1.50 & v4.1.19 & v3.4.0.
+- Twitter | BHTwitter updated to v9.46 | v3.7.
+- Youtube | uYouPlus updated to v18.08.1 | v2.3.1.
+- Instagram | Rocket updated to v272.0 | 3.8.5.
+- Instagram | Plus updated to v272.0 | 2.50.
+
+---
+
 **06/feb/23**
 - Added [AltStore/SideStore/ESign repository](https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/apps.json).
 - Instagram | Rocket updated to v267.0 | v3.8.4.
