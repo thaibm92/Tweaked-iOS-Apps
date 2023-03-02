@@ -1,5 +1,15 @@
 **To-do:**
-- Add Messenger Shark, YTMusicUltimate, Duolingo Super, JIT Enabled DolphiniOS and others.
+- Add Messenger Shark, YTMusicUltimate, JIT Enabled DolphiniOS and others.
+
+---
+
+**02/mar/23**
+- Added Duolingo Super v6.196.0.
+- Spotify | Spotilife updated to v8.8.12 | 1.8.
+- Facebook | Wolf updated to v404.0 | v2.1.
+- Reddit | RedditFilter updated to v2023.08.0 | 1.1.1.
+- Reddit | RedditOldDiscovery updated to v2023.08.0 | 0.0.3.
+- SoundCloud | SCMusicPlus updated to v6.16.1 | v2.2.1.
 
 ---
 

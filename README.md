@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _(last update: 01/mar/23)_
+**Tweaks injected into iOS apps.** _([last update: 02/mar/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -47,7 +47,9 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 	- [SoundCloud](#soundcloud)
 		- [SCMusicPlus](#scmusicplus)
 	- [MyFitnessPal](#myfitnesspal)
-		- [MyFitnessPal Premium Unlock](#myfitnesspal-premium-unlock)
+		- [MyFitnessPal Premium](#myfitnesspal-premium)
+	- [Duolingo](#duolingo)
+		- [Duolingo Super](#duolingo-super)
 - [Credits](#credits)
 - [Notes](#notes)
 - [Donation](#donation)
@@ -140,7 +142,7 @@ _with Stalky & OnlineNotify_
 | :---: | :---: | :---: |
 | v23.2.75 | 1.1.50 & 4.1.19 & 3.4.0 | [Sideload](https://mega.nz/file/gbZxCJ6R#DFKaYYO6I9JgYU1i2VmUbvlunzSovxL1ZMS5yvVoV-E) & [TrollStore](https://mega.nz/file/MOZzHDJR#-U8U37GpnIFSAe4s74eZhZbHw3j-MIIad9DR84dqac8) |
 
-Other versions available: 
+**Other versions available:**
 - WA Duplicate: [Sideload](https://mega.nz/file/QWAUECqR#bpum6o2oaSUU0QRSWIvkHtF-i_NfuKfZHORGMlUHW7Q).
 - WA Business: [Sideload](https://mega.nz/file/xLhGFCiI#tA5Fa2kp5ejGQJVomZe6U8HnAznuZAkVHGkopvFeu14) | [TrollStore](https://mega.nz/file/ADQT1bKb#R05k9qekzhg1E_RLOEoRSHysLN3TS-3zG2lV1Z3xkh4).
 
@@ -300,7 +302,9 @@ Other versions available:
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 8.8.6 | 1.8 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Spotify8.8.6_Spotilife1.8.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Spotify8.8.6_Spotilife1.8TS.ipa) |
+| 8.8.12 | 1.8 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Spotify8.8.12_Spotilife1.8.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Spotify8.8.12_Spotilife1.8TS.ipa) |
+
+**Note: Sideloading with AltStore may not work and I can't do nothing about it. Use Sideloadly for this one.**
 
 <details>
   <summary>Show features.</summary>
@@ -383,7 +387,7 @@ Other versions available:
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 400.0 | 2.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Facebook400.0_Wolf2.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Facebook400.0_Wolf2.1TS.ipa) |
+| 404.0 | 2.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Facebook404.0_Wolf2.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Facebook404.0_Wolf2.1TS.ipa) |
 
 **Note: Using qnblackcat's FBSideloadFix.**
 
@@ -410,9 +414,9 @@ Other versions available:
 | :---: | :---: | :---: |
 | 2021.12.0 | 1.9 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Lizard1.9-Reddit2021.12.0/Reddit2021.12.0_Lizard1.9.ipa) |
 
-**Note: Using Reddit's latest version compatible with Lizard.**
-
 **Download with RedditFilter v1.1.1: [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Reddit2021.12.0_Lizard1.9_RedditFilter1.1.1.ipa).**
+
+**Note: Using Reddit's latest version compatible with Lizard.**
 
 <details>
   <summary>Show features.</summary>
@@ -434,11 +438,11 @@ Other versions available:
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 2023.04.0 | 1.1.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Reddit2023.04_RedditFilter1.1.1.ipa) |
+| 2023.08.0 | 1.1.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Reddit2023.08.0_RedditFilter1.1.1.ipa) |
+
+**Download with RedditOldDiscovery v0.0.3: [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Reddit2023.08.0_RedditFilter1.1.1_RedditOldDiscovery0.0.3.ipa).**
 
 **Note: Using level3tjg's RedditSideloadFix.**
-
-**Download with RedditOldDiscovery v0.0.2: [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Reddit2023.04_RedditFilter1.1.1_RedditOldDiscovery0.0.2.ipa).**
   
 <details>
   <summary>Show features.</summary>
@@ -459,7 +463,7 @@ Other versions available:
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 2023.04.0 | 0.0.2 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/06.feb.23/Reddit2023.04_RedditOldDiscovery0.0.2.ipa) |
+| 2023.08.0 | 0.0.3 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Reddit2023.08.0_RedditOldDiscovery0.0.3.ipa) |
 
 **Note: Using level3tjg's RedditSideloadFix.**
 
@@ -495,9 +499,9 @@ Other versions available:
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 6.14.5 | 2.2.1 | [Link](https://rov3r.github.io/depiction/com.rov3r.scmusicplus/soundcloud-6.14.5-scmusicplus-2.2.1.ipa) |
+| 6.16.1 | 2.2.1 | [Sideload](https://rov3r.github.io/depiction/com.rov3r.scmusicplus/soundcloud-6.16.1-scmusicplus-2.2.1.ipa) & [TrollStore](https://rov3r.github.io/scmusicplus/trollstore.html) |
 
-**Note: Rov3r's latest release features latest SoundCloud update, so currently the download link is directing to [THEIR REPO](https://github.com/Rov3r/scmusicplus).**
+**Note: Rov3r's latest release features latest SoundCloud update, so currently the download link is directing to [THEIR REPO](https://github.com/Rov3r/scmusicplus). Troubleshooting steps for issues that may happen is also on their repo.**
 
 <details>
   <summary>Show features.</summary>
@@ -511,7 +515,7 @@ Other versions available:
 ---
 
 ## MyFitnessPal
-### MyFitnessPal Premium Unlock
+### MyFitnessPal Premium
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
@@ -521,6 +525,24 @@ Other versions available:
   <summary>Show features.</summary>
   
 - Premium features unlocked.
+  
+</details>
+
+---
+
+## Duolingo
+### Duolingo Super
+
+| App Version | Tweak Version | Download |
+| :---: | :---: | :---: |
+| 6.196.0 | ∞ | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Duolingo6.196.0_Super.ipa) |
+
+**Note: This tweak requires an iOSGods account.**
+
+<details>
+  <summary>Show features.</summary>
+  
+- Super unlocked.
   
 </details>
 
@@ -698,7 +720,7 @@ Other versions available:
 	<details>
  	<summary>Show stuff.</summary>
   
-	- [MyFitnessPal Premium Unlock](https://thearmking.xyz).
+	- [MyFitnessPal Premium](https://thearmking.xyz).
   
 	</details>
 
@@ -709,6 +731,7 @@ Other versions available:
  	<summary>Show stuff.</summary>
   
 	- [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us).
+	- [Duolingo Super](https://iosgods.com/topic/78624-duolingo-v61960-jailed-mod-1/).
   
 	</details>
 
