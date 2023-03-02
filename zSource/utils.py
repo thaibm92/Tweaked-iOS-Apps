@@ -45,7 +45,7 @@ def get_single_bundle_id(url, name="temp.ipa"):
                 except:
                     icon_prefix = pl["CFBundleIcons"]["CFBundlePrimaryIcon"]["CFBundleIconName"]
                 for file_name in archive.namelist():
-                    if icon_prefix in file_name:
+                    if icon_prefix in file_name and "__MACOSX" not in file_name:
                         icon_path = file_name
             if icon_path:
                 try:
