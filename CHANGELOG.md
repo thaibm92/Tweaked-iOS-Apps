@@ -3,6 +3,11 @@
 
 ---
 
+**07/mar/23**
+- Twitter | BHTwitter updated to v9.47 | v3.9.
+
+---
+
 **02/mar/23**
 - Added Duolingo Super v6.196.0.
 - Spotify | Spotilife updated to v8.8.12 | 1.8.

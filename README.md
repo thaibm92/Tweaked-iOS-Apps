@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _([last update: 02/mar/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+**Tweaks injected into iOS apps.** _([last update: 07/mar/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -64,9 +64,11 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 9.46 | 3.7 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/01.mar.23/Twitter9.46_BHTwitter3.7.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/01.mar.23/Twitter9.46_BHTwitter3.7TS.ipa) |
+| 9.47 | 3.9 | [Sideload](https://github.com/BandarHL/BHTwitter/releases/download/3.9/Twitter_9.47_BHTwitter_3.9.ipa) & [TrollStore](https://github.com/BandarHL/BHTwitter/releases/download/3.9/Twitter_9.47_BHTwitter_3.9-TrollStore.ipa) |
 
-**Also added: OpenTwitterSafariExtension (enable it in Safari settings) and libcephei (tweak dependency).**
+**Note: This tweak is maintained by [BandarHL](https://github.com/BandarHL/). The download link is directing to [THEIR REPO](https://github.com/BandarHL/BHTwitter/)'s latest release.**
+
+**Also: Enable OpenTwitter extension in Safari settings.**
 
 <details>
   <summary>Show features.</summary>
