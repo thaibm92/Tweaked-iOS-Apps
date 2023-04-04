@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _([last update: 07/mar/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+**Tweaks injected into iOS apps.** _([last update: 04/apr/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -64,7 +64,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 9.47 | 3.9 | [Sideload](https://github.com/BandarHL/BHTwitter/releases/download/3.9/Twitter_9.47_BHTwitter_3.9.ipa) & [TrollStore](https://github.com/BandarHL/BHTwitter/releases/download/3.9/Twitter_9.47_BHTwitter_3.9-TrollStore.ipa) |
+| 9.49 | 3.9.1 | [Sideload](https://github.com/BandarHL/BHTwitter/releases/download/3.9.1/Twitter_9.49_BHTwitter_3.9.1.ipa) & [TrollStore](https://github.com/BandarHL/BHTwitter/releases/download/3.9.1/Twitter_9.49_BHTwitter_3.9.1-TrollStore.ipa) |
 
 **Note: This tweak is maintained by [BandarHL](https://github.com/BandarHL/). The download link is directing to [THEIR REPO](https://github.com/BandarHL/BHTwitter/)'s latest release.**
 
@@ -137,16 +137,16 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 ---
 
 ## WhatsApp
-### Watusi 
+### Watusi
 _with Stalky & OnlineNotify_
 
 | App Version | Tweak Versions | Download |
 | :---: | :---: | :---: |
-| v23.2.75 | 1.1.50 & 4.1.19 & 3.4.0 | [Sideload](https://mega.nz/file/gbZxCJ6R#DFKaYYO6I9JgYU1i2VmUbvlunzSovxL1ZMS5yvVoV-E) & [TrollStore](https://mega.nz/file/MOZzHDJR#-U8U37GpnIFSAe4s74eZhZbHw3j-MIIad9DR84dqac8) |
+| v23.2.75 | 3_1.1.52 & 4.1.19 & 3.4.0 | [Sideload](https://mega.nz/file/BfBn1TBL#4O_WLtCI-6w2uA1D7wogeeR3cnzmyOzWFPU_TpliS9A) & [TrollStore](https://mega.nz/file/lDAyUCLD#ksrVnlUoL1VbZVQPSD5dNQ7F1fsobyMQbr09W5qcOJs) |
 
 **Other versions available:**
-- WA Duplicate: [Sideload](https://mega.nz/file/QWAUECqR#bpum6o2oaSUU0QRSWIvkHtF-i_NfuKfZHORGMlUHW7Q).
-- WA Business: [Sideload](https://mega.nz/file/xLhGFCiI#tA5Fa2kp5ejGQJVomZe6U8HnAznuZAkVHGkopvFeu14) | [TrollStore](https://mega.nz/file/ADQT1bKb#R05k9qekzhg1E_RLOEoRSHysLN3TS-3zG2lV1Z3xkh4).
+- WA Duplicate: [Sideload](https://mega.nz/file/ZLAwzYYR#6lVNGqHzB2BkAv-7CCeRq3K6n2kmhXcINlpg9Sr0g80).
+- WA Business: [Sideload](https://mega.nz/file/IHpj3KRQ#jw0hMIKxO_bdoM_oiJ8hFFca1JHYSDvcXJWD31dBnCE) | [TrollStore](https://mega.nz/file/UPITyb5b#SsPYImotm5nubhutRqkgMplKlmN7j2YfvEP4xSU7t5U).
 
 **Note: This tweak is maintained by [FouadRaheb](https://fouadraheb.com/), from [THEIR REPO](https://github.com/FouadRaheb/Watusi-for-WhatsApp). The download link is directing to the repo's latest release.**
 
@@ -165,7 +165,7 @@ _with Stalky & OnlineNotify_
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
 | 236.1 | 3.7.42 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.7.42-Instagram236.1/Instagram236.1_Rocket3.7.42.ipa) |
-| 272.0 | 3.8.5 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/01.mar.23/Instagram272.0_Rocket3.8.5.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/01.mar.23/Instagram272.0_Rocket3.8.5TS.ipa) |
+| 276.1 | 3.8.6 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/04.apr.23/Instagram276.1_Rocket3.8.6.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/04.apr.23/Instagram276.1_Rocket3.8.6TS.ipa) |
 
 **Note: Instagram v236.1 with Rocket v3.7.42 are the latest versions without the annoying pop up when downloading stuff.**
 
@@ -501,7 +501,7 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 6.16.1 | 2.2.1 | [Sideload](https://rov3r.github.io/depiction/com.rov3r.scmusicplus/soundcloud-6.16.1-scmusicplus-2.2.1.ipa) & [TrollStore](https://rov3r.github.io/scmusicplus/trollstore.html) |
+| 6.19.1 | 2.2.1 | [Sideload](https://rov3r.github.io/depiction/com.rov3r.scmusicplus/soundcloud-6.19.1-scmusicplus-2.2.1.ipa) & [TrollStore](https://rov3r.github.io/scmusicplus/trollstore.html) |
 
 **Note: Rov3r's latest release features latest SoundCloud update, so currently the download link is directing to [THEIR REPO](https://github.com/Rov3r/scmusicplus). Troubleshooting steps for issues that may happen is also on their repo.**
 

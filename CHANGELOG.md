@@ -3,6 +3,14 @@
 
 ---
 
+**04/apr/23**
+- Twitter | BHTwitter updated to v9.49 | 3.9.1.
+- WhatsApp | Watusi updated to v23.5.75 | 3_1.1.52.
+- Instagram | Rocket updated to 276.1 | 3.8.6.
+- SoundCloud | SCMusicPlus updated to v6.19.1 | 2.2.1.
+
+---
+
 **07/mar/23**
 - Twitter | BHTwitter updated to v9.47 | v3.9.
 
