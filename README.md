@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _([last update: 04/apr/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+**Tweaks injected into iOS apps.** _([last update: 14/apr/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -142,7 +142,7 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Versions | Download |
 | :---: | :---: | :---: |
-| v23.2.75 | 3_1.1.52 & 4.1.19 & 3.4.0 | [Sideload](https://mega.nz/file/BfBn1TBL#4O_WLtCI-6w2uA1D7wogeeR3cnzmyOzWFPU_TpliS9A) & [TrollStore](https://mega.nz/file/lDAyUCLD#ksrVnlUoL1VbZVQPSD5dNQ7F1fsobyMQbr09W5qcOJs) |
+| v23.5.75 | 3_1.1.52 & 4.1.19 & 3.4.0 | [Sideload](https://mega.nz/file/BfBn1TBL#4O_WLtCI-6w2uA1D7wogeeR3cnzmyOzWFPU_TpliS9A) & [TrollStore](https://mega.nz/file/lDAyUCLD#ksrVnlUoL1VbZVQPSD5dNQ7F1fsobyMQbr09W5qcOJs) |
 
 **Other versions available:**
 - WA Duplicate: [Sideload](https://mega.nz/file/ZLAwzYYR#6lVNGqHzB2BkAv-7CCeRq3K6n2kmhXcINlpg9Sr0g80).
@@ -165,9 +165,12 @@ _with Stalky & OnlineNotify_
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
 | 236.1 | 3.7.42 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.7.42-Instagram236.1/Instagram236.1_Rocket3.7.42.ipa) |
-| 276.1 | 3.8.6 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/04.apr.23/Instagram276.1_Rocket3.8.6.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/04.apr.23/Instagram276.1_Rocket3.8.6TS.ipa) |
+| 265.0 | 3.8.6 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram265.0_Rocket3.8.6.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram265.0_Rocket3.8.6TS.ipa) |
+| 278.0 | 3.8.6 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram278.0_Rocket3.8.6.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram278.0_Rocket3.8.6TS.ipa) |
 
 **Note: Instagram v236.1 with Rocket v3.7.42 are the latest versions without the annoying pop up when downloading stuff.**
+
+**Also: Instagram v265.0 it's the latest version to be fully compatible with the tweak.**
 
 <details>
   <summary>Show features.</summary>
@@ -198,7 +201,7 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 272.0 | 2.50 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/01.mar.23/Instagram272.0_Plus2.50.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/01.mar.23/Instagram272.0_Plus2.50TS.ipa) |
+| 278.0 | 2.50 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram278.0_Plus2.50.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram278.0_Plus2.50TS.ipa) |
 
 **Also added: libmryipc (tweak dependency).**
 

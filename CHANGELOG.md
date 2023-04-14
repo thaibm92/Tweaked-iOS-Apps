@@ -3,6 +3,13 @@
 
 ---
 
+**14/apr/23** _(thanks to Christoph Kolbicz)_
+- Added Instagram v265.0 | Rocket v3.8.6 as it's the latest version to be fully compatible with the tweak.
+- Instagram | Rocket updated to v278.0 | v3.8.6.
+- Instagram | Plus updated to v278.0 | v2.50.
+
+---
+
 **04/apr/23**
 - Twitter | BHTwitter updated to v9.49 | 3.9.1.
 - WhatsApp | Watusi updated to v23.5.75 | 3_1.1.52.
