@@ -6,6 +6,72 @@
         {
             "name": "Instagram",
             "bundleIdentifier": "com.burbn.instagram",
+            "version": "265.0",
+            "versionDate": "2023-04-14",
+            "size": 122848943,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram265.0_Rocket3.8.6.ipa",
+            "developerName": "",
+            "localizedDescription": "Rocket3.8.6",
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "265.0",
+            "versionDate": "2023-04-14",
+            "size": 123010091,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram265.0_Rocket3.8.6TS.ipa",
+            "developerName": "",
+            "localizedDescription": "For TrollStore, injected with Rocket3.8.6",
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "278.0",
+            "versionDate": "2023-04-14",
+            "size": 132762869,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram278.0_Plus2.50.ipa",
+            "developerName": "",
+            "localizedDescription": "Plus2.50",
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "278.0",
+            "versionDate": "2023-04-14",
+            "size": 132843012,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram278.0_Plus2.50TS.ipa",
+            "developerName": "",
+            "localizedDescription": "For TrollStore, injected with Plus2.50",
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "278.0",
+            "versionDate": "2023-04-14",
+            "size": 133757976,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram278.0_Rocket3.8.6.ipa",
+            "developerName": "",
+            "localizedDescription": "Rocket3.8.6",
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "278.0",
+            "versionDate": "2023-04-14",
+            "size": 133919124,
+            "downloadURL": "https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram278.0_Rocket3.8.6TS.ipa",
+            "developerName": "",
+            "localizedDescription": "For TrollStore, injected with Rocket3.8.6",
+            "iconURL": "https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "Instagram",
+            "bundleIdentifier": "com.burbn.instagram",
             "version": "276.1",
             "versionDate": "2023-04-04",
             "size": 133234133,
