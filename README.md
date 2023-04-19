@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _([last update: 14/apr/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+**Tweaks injected into iOS apps.** _([last update: 19/apr/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -64,11 +64,9 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 9.49 | 3.9.1 | [Sideload](https://github.com/BandarHL/BHTwitter/releases/download/3.9.1/Twitter_9.49_BHTwitter_3.9.1.ipa) & [TrollStore](https://github.com/BandarHL/BHTwitter/releases/download/3.9.1/Twitter_9.49_BHTwitter_3.9.1-TrollStore.ipa) |
+| 9.54 | 3.9.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.apr.23/Twitter9.54_BHTwitter3.9.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.apr.23/Twitter9.54_BHTwitter3.9.1TS.ipa) |
 
-**Note: This tweak is maintained by [BandarHL](https://github.com/BandarHL/). The download link is directing to [THEIR REPO](https://github.com/BandarHL/BHTwitter/)'s latest release.**
-
-**Also: Enable OpenTwitter extension in Safari settings.**
+**Note: Enable OpenTwitter extension in Safari settings.**
 
 <details>
   <summary>Show features.</summary>
@@ -110,7 +108,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| v18.08.1 | 2.3.1 | [Link](https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa) |
+| 18.15.1 | 3.0 | [Link](https://github.com/qnblackcat/uYouPlus/releases/download/v18.15.1-3.0/uYouPlus_18.15.1_3.0.ipa) |
 
 **Note: This tweak is maintained by [qnblackcat](https://github.com/qnblackcat). All developers, contributors, commmits, changelog and more can be checked on [THEIR REPO](https://github.com/qnblackcat/uYouPlus). The download link is directing to the repo's latest release.**
 
@@ -142,11 +140,11 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Versions | Download |
 | :---: | :---: | :---: |
-| v23.5.75 | 3_1.1.52 & 4.1.19 & 3.4.0 | [Sideload](https://mega.nz/file/BfBn1TBL#4O_WLtCI-6w2uA1D7wogeeR3cnzmyOzWFPU_TpliS9A) & [TrollStore](https://mega.nz/file/lDAyUCLD#ksrVnlUoL1VbZVQPSD5dNQ7F1fsobyMQbr09W5qcOJs) |
+| 23.6.74 | 3_1.1.54 & 4.1.19 & 3.4.1 | [Sideload](https://mega.nz/file/NDJS2ZxT#53msLYULzOMJ6zX-XmpiynSe4ka5zIlTAz_cQs9TF9U) & [TrollStore](https://mega.nz/file/wKpGwYbK#DzzkBDSQDxiXl5p-Eal143TfYjJW1_OmHm3lsd2LRnQ) |
 
 **Other versions available:**
-- WA Duplicate: [Sideload](https://mega.nz/file/ZLAwzYYR#6lVNGqHzB2BkAv-7CCeRq3K6n2kmhXcINlpg9Sr0g80).
-- WA Business: [Sideload](https://mega.nz/file/IHpj3KRQ#jw0hMIKxO_bdoM_oiJ8hFFca1JHYSDvcXJWD31dBnCE) | [TrollStore](https://mega.nz/file/UPITyb5b#SsPYImotm5nubhutRqkgMplKlmN7j2YfvEP4xSU7t5U).
+- WA Duplicate: [Sideload](https://mega.nz/file/1fIkkJCQ#UlPzqG229S1xfDyDieSbEJhid8drwqQB9d3w8qS3KZE).
+- WA Business: [Sideload](https://mega.nz/file/keRzjAjL#QVtI9IL0DyCaI9R-oeNFYOOOk48WV2X9EmPHfM-bz3Q) | [TrollStore](https://mega.nz/file/9f4iHJzS#INsWOwjSk1Y0ffdfbWrLKEU1Pc-HhtR-eYDUHvQEymo).
 
 **Note: This tweak is maintained by [FouadRaheb](https://fouadraheb.com/), from [THEIR REPO](https://github.com/FouadRaheb/Watusi-for-WhatsApp). The download link is directing to the repo's latest release.**
 
@@ -165,12 +163,9 @@ _with Stalky & OnlineNotify_
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
 | 236.1 | 3.7.42 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.7.42-Instagram236.1/Instagram236.1_Rocket3.7.42.ipa) |
-| 265.0 | 3.8.6 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram265.0_Rocket3.8.6.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram265.0_Rocket3.8.6TS.ipa) |
-| 278.0 | 3.8.6 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram278.0_Rocket3.8.6.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram278.0_Rocket3.8.6TS.ipa) |
+| 279.0 | 3.8.7 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.apr.23/Instagram279.0_Rocket3.8.7.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.apr.23/Instagram279.0_Rocket3.8.7TS.ipa) |
 
 **Note: Instagram v236.1 with Rocket v3.7.42 are the latest versions without the annoying pop up when downloading stuff.**
-
-**Also: Instagram v265.0 it's the latest version to be fully compatible with the tweak.**
 
 <details>
   <summary>Show features.</summary>
@@ -201,7 +196,7 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 278.0 | 2.50 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram278.0_Plus2.50.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/14.apr.23/Instagram278.0_Plus2.50TS.ipa) |
+| 279.0 | 2.50 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.apr.23/Instagram279.0_Plus2.50.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.apr.23/Instagram279.0_Plus2.50TS.ipa) |
 
 **Also added: libmryipc (tweak dependency).**
 

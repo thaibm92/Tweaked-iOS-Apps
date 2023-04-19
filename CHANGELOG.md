@@ -3,6 +3,15 @@
 
 ---
 
+**19/apr/23**
+- Twitter | BHTwitter updated to v9.54 | 3.9.1.
+- Youtube | uYouPlus updated to v18.15.1 | 3.0.
+- Whatsapp | Watusi updated to v23.6.74 | 3_1.1.54.
+- Instagram | Rocket updated to v279.0 | 3.9.7.
+- Instagram | Plus updated to v279.0 | 2.50.
+
+---
+
 **14/apr/23** _(thanks to Christoph Kolbicz)_
 - Added Instagram v265.0 | Rocket v3.8.6 as it's the latest version to be fully compatible with the tweak.
 - Instagram | Rocket updated to v278.0 | v3.8.6.
