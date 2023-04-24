@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _([last update: 19/apr/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+**Tweaks injected into iOS apps.** _([last update: 23/apr/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -787,7 +787,7 @@ Everything used to generate the injected .ipas is inside each tweak's folder. **
 
 # Donation
 
-If you want to make a donation to me (I don't think I deserve it, but if you really want to), you can do that by clicking the donate button. Also, it will show to my parents that all the sleepless nights had a... purpose. [Donate by clicking in this beautiful and long hyperlink](https://www.paypal.com/donate/?business=SKMYRAY32DX6A&no_recurring=1&currency_code=USD).
+If you want to make a donation to me (I don't think I deserve it, but if you really want to), you can do that by clicking the donate button. Also, it will show to my parents that all the sleepless nights had a... purpose. [Donate by clicking in this beautiful and long hyperlink](https://www.paypal.com/donate/?business=G56V3FR2QEAQ8&no_recurring=0&item_name=Making+me+a+donation+allows+me+to+keep+seeking+my+purpose.&currency_code=USD).
 
 
 # License
