@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _([last update: 23/apr/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+**Tweaks injected into iOS apps.** _([last update: 27/apr/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -108,7 +108,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 18.15.1 | 3.0 | [Link](https://github.com/qnblackcat/uYouPlus/releases/download/v18.15.1-3.0/uYouPlus_18.15.1_3.0.ipa) |
+| 18.14.1 | 3.0 | [Link](https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa) |
 
 **Note: This tweak is maintained by [qnblackcat](https://github.com/qnblackcat). All developers, contributors, commmits, changelog and more can be checked on [THEIR REPO](https://github.com/qnblackcat/uYouPlus). The download link is directing to the repo's latest release.**
 
@@ -481,7 +481,7 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 14.4 | 0.0.9-2 | [Link](https://github.com/level3tjg/TwitchAdBlock/releases/download/v14.4_0.0.9-2/Twitch_14.4_TwitchAdBlock_0.0.9-2.ipa) |
+| 15.0 | 0.0.9-3 | [Link](https://github.com/level3tjg/TwitchAdBlock/releases/download/v15.0_0.0.9-3/TwitchAdBlock_15.0_0.0.9-3.ipa) |
 
 **Note: level3tjg's latest release features latest Twitch update, so currently the download link is directing to [THEIR REPO](https://github.com/level3tjg/TwitchAdBlock).**
 
