@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _([last update: 27/apr/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+**Tweaks injected into iOS apps.** _([last update: 30/apr/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -140,11 +140,11 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Versions | Download |
 | :---: | :---: | :---: |
-| 23.6.74 | 3_1.1.54 & 4.1.19 & 3.4.1 | [Sideload](https://mega.nz/file/NDJS2ZxT#53msLYULzOMJ6zX-XmpiynSe4ka5zIlTAz_cQs9TF9U) & [TrollStore](https://mega.nz/file/wKpGwYbK#DzzkBDSQDxiXl5p-Eal143TfYjJW1_OmHm3lsd2LRnQ) |
+| 23.8.78 | 3_1.1.55 & 4.1.19 & 3.4.1 | [Sideload](https://mega.nz/file/EDAQGTiZ#AA8bhDnMjPeqtiqu8YrYehjCFpHSo56tpA2n2jOfm1Q) & [TrollStore](https://mega.nz/file/lHJwhaJY#oJepIKSHaqxVcArEW_Xz28-W1RlvqcwEwb69z5qPaLw) |
 
 **Other versions available:**
-- WA Duplicate: [Sideload](https://mega.nz/file/1fIkkJCQ#UlPzqG229S1xfDyDieSbEJhid8drwqQB9d3w8qS3KZE).
-- WA Business: [Sideload](https://mega.nz/file/keRzjAjL#QVtI9IL0DyCaI9R-oeNFYOOOk48WV2X9EmPHfM-bz3Q) | [TrollStore](https://mega.nz/file/9f4iHJzS#INsWOwjSk1Y0ffdfbWrLKEU1Pc-HhtR-eYDUHvQEymo).
+- WA Duplicate: [Sideload](https://mega.nz/file/JHZw2B4L#C4mv8yfHJnybpUXMbpbCYyCIIz0t-d2dMvA3TEmNQfM).
+- WA Business: [Sideload](https://mega.nz/file/heY2gY6L#RlX0gRtsCjAYfm2loza9kzSIhKNR26mEojz9xG4v73w) | [TrollStore](https://mega.nz/file/lTo0WQiB#t55qaDCS7aIChThXpZEVSfWgTY7-0H8nvjBRyO_4dTQ).
 
 **Note: This tweak is maintained by [FouadRaheb](https://fouadraheb.com/), from [THEIR REPO](https://github.com/FouadRaheb/Watusi-for-WhatsApp). The download link is directing to the repo's latest release.**
 
