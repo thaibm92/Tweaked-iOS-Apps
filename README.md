@@ -499,7 +499,7 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 6.19.1 | 2.2.1 | [Sideload](https://rov3r.github.io/depiction/com.rov3r.scmusicplus/soundcloud-6.19.1-scmusicplus-2.2.1.ipa) & [TrollStore](https://rov3r.github.io/scmusicplus/trollstore.html) |
+| 6.22.0 | 2.2.1 | [Sideload](https://rov3r.github.io/depiction/com.rov3r.scmusicplus/soundcloud-6.22.0-scmusicplus-2.2.1.ipa) & [TrollStore](https://rov3r.github.io/scmusicplus/trollstore.html) |
 
 **Note: Rov3r's latest release features latest SoundCloud update, so currently the download link is directing to [THEIR REPO](https://github.com/Rov3r/scmusicplus). Troubleshooting steps for issues that may happen is also on their repo.**
 
