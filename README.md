@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _([last update: 30/apr/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+**Tweaks injected into iOS apps.** _([last update: 12/may/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -64,7 +64,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 9.54 | 3.9.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.apr.23/Twitter9.54_BHTwitter3.9.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.apr.23/Twitter9.54_BHTwitter3.9.1TS.ipa) |
+| 9.57 | 3.9.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/12.may.23/Twitter9.57_BHTwitter3.9.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/12.may.23/Twitter9.57_BHTwitter3.9.1TS.ipa) |
 
 **Note: Enable OpenTwitter extension in Safari settings.**
 
@@ -140,11 +140,11 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Versions | Download |
 | :---: | :---: | :---: |
-| 23.8.78 | 3_1.1.55 & 4.1.19 & 3.4.1 | [Sideload](https://mega.nz/file/EDAQGTiZ#AA8bhDnMjPeqtiqu8YrYehjCFpHSo56tpA2n2jOfm1Q) & [TrollStore](https://mega.nz/file/lHJwhaJY#oJepIKSHaqxVcArEW_Xz28-W1RlvqcwEwb69z5qPaLw) |
+| 23.9.77 | 3_1.1.58 & 4.1.19 & 3.4.1 | [Sideload](https://mega.nz/file/VWgg1IaL#x308VTsnV26QLO-zDlq8udXJyk7OMunY_9nujBF4Fs8) & [TrollStore](https://mega.nz/file/JKAz0ZCY#76VQzxW83MpUU5-Mu3_mFvUEhgqm_k3U5x5ODzlmk-A) |
 
 **Other versions available:**
-- WA Duplicate: [Sideload](https://mega.nz/file/JHZw2B4L#C4mv8yfHJnybpUXMbpbCYyCIIz0t-d2dMvA3TEmNQfM).
-- WA Business: [Sideload](https://mega.nz/file/heY2gY6L#RlX0gRtsCjAYfm2loza9kzSIhKNR26mEojz9xG4v73w) | [TrollStore](https://mega.nz/file/lTo0WQiB#t55qaDCS7aIChThXpZEVSfWgTY7-0H8nvjBRyO_4dTQ).
+- WA Duplicate: [Sideload](https://mega.nz/file/RLYCgBzD#XV3-b7zww1BrI6Y9oGnWe-Htn-irfzYY2-LGhMyyvnk).
+- WA Business: [Sideload](https://mega.nz/file/MC4mUaQB#F8G-5fHPtZRhD1FQmsy1pPCWKFzACsU0nliAyxMdcNk) | [TrollStore](https://mega.nz/file/NKoGCSQS#i7sDIGf2-TW9fvR8m-yAYEQqxVUbAyVuz-SzDj35odI).
 
 **Note: This tweak is maintained by [FouadRaheb](https://fouadraheb.com/), from [THEIR REPO](https://github.com/FouadRaheb/Watusi-for-WhatsApp). The download link is directing to the repo's latest release.**
 

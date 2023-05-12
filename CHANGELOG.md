@@ -3,6 +3,12 @@
 
 ---
 
+**12/may/23**
+- Twitter | BHTwitter updated to v9.57 | v3.9.1.
+- WhatsApp | Watusi updated to v23.9.77 | v3_1.1.58.
+
+---
+
 **19/apr/23**
 - Twitter | BHTwitter updated to v9.54 | 3.9.1.
 - Youtube | uYouPlus updated to v18.15.1 | 3.0.
