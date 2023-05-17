@@ -3,6 +3,12 @@
 
 ---
 
+**17/may/23**
+- Twitter | BHTwitter updated to v9.58.1 | v3.9.1.
+
+
+---
+
 **12/may/23**
 - Twitter | BHTwitter updated to v9.57 | v3.9.1.
 - WhatsApp | Watusi updated to v23.9.77 | v3_1.1.58.

@@ -1,12 +1,12 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _([last update: 12/may/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+**Tweaks injected into iOS apps.** _([last update: 17/may/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
 You also can sideload these with [**Sideloadly**](https://sideloadly.io/), [AltStore](https://altstore.io/), [SideStore](https://github.com/SideStore/SideStore) or your preferred sideloading service. **Sideloadly is recommended.**
 
-**Add source to AltStore/SideStore/ESign: https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/apps.json.** _(thanks to [@hieuddo](https://github.com/hieuddo))_
+**Add source to AltStore/SideStore/ESign: https://raw.githubusercontent.com/purp0s3/Tweaked-iOS-Apps/main/zSource/apps.json.** _(thanks to [@hieuddo](https://github.com/hieuddo) | It seems that latest AltStore updates broke this.)_
 
 Installing these via TrollStore should make push notifications work on all apps. _and local song importing on Spotify_
 
@@ -64,7 +64,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 9.57 | 3.9.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/12.may.23/Twitter9.57_BHTwitter3.9.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/12.may.23/Twitter9.57_BHTwitter3.9.1TS.ipa) |
+| 9.58.1 | 3.9.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/17.may.23/Twitter9.58.1_BHTwitter3.9.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/17.may.23/Twitter9.58.1_BHTwitter3.9.1TS.ipa) |
 
 **Note: Enable OpenTwitter extension in Safari settings.**
 
