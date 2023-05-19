@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _([last update: 17/may/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+**Tweaks injected into iOS apps.** _([last update: 19/may/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -18,13 +18,13 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 # Table of contents
 
-- [Tweaked iOS Apps](#tweaked-ios-apps)
-- [Table of contents](#table-of-contents)
 - [Tweaks](#tweaks)
 	- [Twitter](#twitter)
 		- [BHTwitter](#bhtwitter)
 	- [Youtube](#youtube)
 		- [uYouPlus](#uyouplus)
+	- [Youtube Music](#youtube-music)
+		- [YTMusicUltimate](#ytmusicultimate)
 	- [WhatsApp](#whatsapp)
 		- [Watusi](#watusi)
 	- [Instagram](#instagram)
@@ -134,6 +134,26 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 ---
 
+## Youtube Music
+### YTMusicUltimate
+
+| App Version | Tweak Version | Download |
+| :---: | :---: | :---: |
+| 6.02.1 | 1.4.0 | [Link](https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.4.0/YTMusicUltimate_v1.4.0_YTM6.02.1.ipa) |
+
+**Note: This tweak is maintained by [ginsudev](https://github.com/ginsudev), from [THEIR REPO](https://github.com/ginsudev/YTMusicUltimate). The download link is directing to the repo's latest release.**
+
+<details>
+  <summary>Show features.</summary>
+
+- Unlocks all if not most of the Youtube Music Premium features. 
+- It also adds some extra usability features.
+- [Screenshots](https://user-images.githubusercontent.com/38832025/235781207-6d1ad44e-0c32-4aec-9c75-cb928ca8a0d3.png?raw=true).
+
+</details>
+
+---
+
 ## WhatsApp
 ### Watusi
 _with Stalky & OnlineNotify_
@@ -163,7 +183,7 @@ _with Stalky & OnlineNotify_
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
 | 236.1 | 3.7.42 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.7.42-Instagram236.1/Instagram236.1_Rocket3.7.42.ipa) |
-| 279.0 | 3.8.7 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.apr.23/Instagram279.0_Rocket3.8.7.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.apr.23/Instagram279.0_Rocket3.8.7TS.ipa) |
+| 283.0 | 3.8.8 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Instagram283.0_Rocket3.8.8.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Instagram283.0_Rocket3.8.8TS.ipa) |
 
 **Note: Instagram v236.1 with Rocket v3.7.42 are the latest versions without the annoying pop up when downloading stuff.**
 
@@ -196,7 +216,9 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 279.0 | 2.50 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.apr.23/Instagram279.0_Plus2.50.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.apr.23/Instagram279.0_Plus2.50TS.ipa) |
+| 283.0 | 2.50 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Instagram283.0_Plus2.50.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Instagram283.0_Plus2.50TS.ipa) |
+
+**Note: You can dismiss compatibility checker when first opening the app.**
 
 **Also added: libmryipc (tweak dependency).**
 
@@ -302,7 +324,7 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 8.8.12 | 1.8 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Spotify8.8.12_Spotilife1.8.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Spotify8.8.12_Spotilife1.8TS.ipa) |
+| 8.8.36 | 1.8 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Spotify8.8.36_Spotilife1.8.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Spotify8.8.36_Spotilife1.8TS.ipa) |
 
 **Note: Sideloading with AltStore may not work and I can't do nothing about it. Use Sideloadly for this one.**
 
@@ -387,9 +409,11 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 404.0 | 2.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Facebook404.0_Wolf2.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Facebook404.0_Wolf2.1TS.ipa) |
+| 415.1 | 2.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Facebook415.1_Wolf2.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Facebook415.1_Wolf2.1TS.ipa) |
 
 **Note: Using qnblackcat's FBSideloadFix.**
+
+**Also: Tweak settings show up by clicking "More" menu.**
 
 <details>
   <summary>Show features.</summary>
@@ -438,9 +462,7 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 2023.08.0 | 1.1.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Reddit2023.08.0_RedditFilter1.1.1.ipa) |
-
-**Download with RedditOldDiscovery v0.0.3: [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Reddit2023.08.0_RedditFilter1.1.1_RedditOldDiscovery0.0.3.ipa).**
+| 2023.19.0 | 1.1.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Reddit2023.19.0_RedditFilter1.1.1.ipa) |
 
 **Note: Using level3tjg's RedditSideloadFix.**
   
@@ -465,7 +487,11 @@ _with Stalky & OnlineNotify_
 | :---: | :---: | :---: |
 | 2023.08.0 | 0.0.3 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Reddit2023.08.0_RedditOldDiscovery0.0.3.ipa) |
 
+**Download with RedditFilter v1.1.1: [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Reddit2023.08.0_RedditFilter1.1.1_RedditOldDiscovery0.0.3.ipa).**
+
 **Note: Using level3tjg's RedditSideloadFix.**
+
+**Also: This tweak doesn't work on newer versions of Reddit at the moment.**
 
 <details>
   <summary>Show features.</summary>
@@ -730,18 +756,7 @@ _with Stalky & OnlineNotify_
 	<details>
  	<summary>Show stuff.</summary>
   
-	- [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us).
 	- [Duolingo Super](https://iosgods.com/topic/78624-duolingo-v61960-jailed-mod-1/).
-  
-	</details>
-
-
-- [und3fined](https://und3fined.com). Support the developer via [Buy Me a Coffee](https://www.buymeacoffee.com/und3fined).
-
-	<details>
- 	<summary>Show stuff.</summary>
-  
-	- [Decrypt IPA](https://ipa.decrypt.day).
   
 	</details>
 
@@ -753,7 +768,6 @@ _with Stalky & OnlineNotify_
   
 	- [uYouPlus](https://github.com/qnblackcat/uYouPlus).
 	- [FBSideloadFix](https://github.com/qnblackcat/FBSideloadfix).
-	- [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs).
   
 	</details>
 
@@ -769,6 +783,15 @@ _with Stalky & OnlineNotify_
 	</details>
 
 
+- [ginsudev](https://github.com/ginsudev). Couldn't find any links to support them, will update if I do.
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate).
+  
+	</details>
+
 - **All jailbreak developers and community for making all this possible.**
 
 
@@ -782,7 +805,7 @@ All tweaks were injected using [Azule](https://github.com/Al4ise/Azule), [Theos]
 
 All tweaks were obtained within their GitHub repos or by fetching .debs via their cydia repos using [cydownload](https://github.com/borishonman/cydownload).
 
-Everything used to generate the injected .ipas is inside each tweak's folder. **Except from the decrypted .ipas**, which are required for proper tweak injection. I will decrypt them by myself once I get access to a jailbroken device or an Apple Silicon Mac. For the time being, I get them from [Decrypted iOS IPA App Store](https://armconverter.com/decryptedappstore/us), [Decrypt IPA](https://ipa.decrypt.day) and [qnblackcat](https://github.com/qnblackcat/)'s [Decrypted-IPAs repo](https://github.com/qnblackcat/Decrypted-IPAs).
+All apps were purchased, downloaded and decrypted by myself.
 
 
 # Donation

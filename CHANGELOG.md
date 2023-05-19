@@ -1,5 +1,10 @@
-**To-do:**
-- Add Messenger Shark, YTMusicUltimate, JIT Enabled DolphiniOS and others.
+**19/may/23**
+- Added Youtube Music v6.02.1 | YTMusicUltimate v1.4.0.
+- Instagram | Rocket updated to v283.0 | v3.8.8.
+- Instagram | Plus updated to v283.0 | v2.50.
+- Spotify | Spotilife updated to v8.8.36 | v1.8.
+- Facebook | Wolf updated to v415.1 | v2.1.
+- Reddit | RedditFilter updated to v2023.19.0 | v1.1.1.
 
 ---
 
