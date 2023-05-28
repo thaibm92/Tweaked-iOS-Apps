@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _([last update: 19/may/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+**Tweaks injected into iOS apps.** _([last update: 28/may/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -139,7 +139,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 6.02.1 | 1.4.0 | [Link](https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.4.0/YTMusicUltimate_v1.4.0_YTM6.02.1.ipa) |
+| 6.03.1 | 1.4.1 | [Link](https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.4.1/YTMusicUltimate_v1.4.1_YTM6.03.1.ipa) |
 
 **Note: This tweak is maintained by [ginsudev](https://github.com/ginsudev), from [THEIR REPO](https://github.com/ginsudev/YTMusicUltimate). The download link is directing to the repo's latest release.**
 
