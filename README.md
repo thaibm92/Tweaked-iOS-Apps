@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _([last update: 28/may/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+**Tweaks injected into iOS apps.** _([last update: 12/jun/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -64,7 +64,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 9.58.1 | 3.9.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/17.may.23/Twitter9.58.1_BHTwitter3.9.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/17.may.23/Twitter9.58.1_BHTwitter3.9.1TS.ipa) |
+| 9.61 | 3.9.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/12.jun.23/Twitter9.61_BHTwitter3.9.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/12.jun.23/Twitter9.61_BHTwitter3.9.1TS.ipa) |
 
 **Note: Enable OpenTwitter extension in Safari settings.**
 
@@ -139,7 +139,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 6.03.1 | 1.4.1 | [Link](https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.4.1/YTMusicUltimate_v1.4.1_YTM6.03.1.ipa) |
+| 6.05.1 | 1.4.1 | [Link](https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.4.1/YTMusicUltimate_v1.4.1_YTM6.05.1.ipa) |
 
 **Note: This tweak is maintained by [ginsudev](https://github.com/ginsudev), from [THEIR REPO](https://github.com/ginsudev/YTMusicUltimate). The download link is directing to the repo's latest release.**
 
@@ -160,11 +160,11 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Versions | Download |
 | :---: | :---: | :---: |
-| 23.9.77 | 3_1.1.58 & 4.1.19 & 3.4.1 | [Sideload](https://mega.nz/file/VWgg1IaL#x308VTsnV26QLO-zDlq8udXJyk7OMunY_9nujBF4Fs8) & [TrollStore](https://mega.nz/file/JKAz0ZCY#76VQzxW83MpUU5-Mu3_mFvUEhgqm_k3U5x5ODzlmk-A) |
+| 23.11.80 | 3_1.1.62 & 4.1.21 & 3.4.3 | [Sideload](https://mega.nz/file/RfhkDCpI#Xd1zVViIM4_yD7WVcoYKpbvBJV9l_bWbfcY3EbFeaQk) & [TrollStore](https://mega.nz/file/wbJjRIQS#eb0LuvVDNMOnAEe2YwYx9ljYmjt-_uN4qE1YScI31CY) |
 
 **Other versions available:**
-- WA Duplicate: [Sideload](https://mega.nz/file/RLYCgBzD#XV3-b7zww1BrI6Y9oGnWe-Htn-irfzYY2-LGhMyyvnk).
-- WA Business: [Sideload](https://mega.nz/file/MC4mUaQB#F8G-5fHPtZRhD1FQmsy1pPCWKFzACsU0nliAyxMdcNk) | [TrollStore](https://mega.nz/file/NKoGCSQS#i7sDIGf2-TW9fvR8m-yAYEQqxVUbAyVuz-SzDj35odI).
+- WA Duplicate: [Sideload](https://mega.nz/file/1Tg0wY7K#gngqp9EuPqLnNlmDsOMopnSvgIjcib9uiNIIFLQii1Q).
+- WA Business: [Sideload](https://mega.nz/file/4eJBjTxb#kMcMEGvpjZQIc7JOoXL5dqHBWRLW2CvQYR1Wf5Y5pvU) | [TrollStore](https://mega.nz/file/9GoS2ICb#Ok0tD8CdN8jk1hJuFunrmMJEmQ6Y6q7EJEHyGd0Q6BU).
 
 **Note: This tweak is maintained by [FouadRaheb](https://fouadraheb.com/), from [THEIR REPO](https://github.com/FouadRaheb/Watusi-for-WhatsApp). The download link is directing to the repo's latest release.**
 
@@ -561,9 +561,9 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 6.196.0 | ∞ | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/02.mar.23/Duolingo6.196.0_Super.ipa) |
+| 6.196.0 | ∞ | [Link](https://app.iosgods.com/store/appdetails/142-duolingo-modded) |
 
-**Note: This tweak requires an iOSGods account.**
+**Note: This tweak requires an iOSGods account and is maintained by [iOSGods](https://iosgods.com).The download link is directing to their website, I don't have any responsibility on the file.**
 
 <details>
   <summary>Show features.</summary>

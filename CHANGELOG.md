@@ -1,3 +1,10 @@
+**12/jun/23**
+- Twitter | BHTwitter updated to v9.61 | v3.9.1.
+- Youtube Music | YTMusicUltimate updated to v6.05.1 | v1.4.1.
+- Whatsapp | Watusi updated to v23.11.80 | v3_1.1.62.
+
+---
+
 **19/may/23**
 - Added Youtube Music v6.02.1 | YTMusicUltimate v1.4.0.
 - Instagram | Rocket updated to v283.0 | v3.8.8.
