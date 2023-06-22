@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _([last update: 12/jun/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+**Tweaks injected into iOS apps.** _([last update: 21/jun/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -64,7 +64,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 9.61 | 3.9.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/12.jun.23/Twitter9.61_BHTwitter3.9.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/12.jun.23/Twitter9.61_BHTwitter3.9.1TS.ipa) |
+| 9.63 | 3.9.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/21.jun.23/Twitter9.63_BHTwitter3.9.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/21.jun.23/Twitter9.63_BHTwitter3.9.1TS.ipa) |
 
 **Note: Enable OpenTwitter extension in Safari settings.**
 
@@ -139,7 +139,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 6.05.1 | 1.4.1 | [Link](https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.4.1/YTMusicUltimate_v1.4.1_YTM6.05.1.ipa) |
+| 6.06.3 | 1.4.1 | [Link](https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.4.1/YTMusicUltimate_v1.4.1_YTM6.06.3.ipa) |
 
 **Note: This tweak is maintained by [ginsudev](https://github.com/ginsudev), from [THEIR REPO](https://github.com/ginsudev/YTMusicUltimate). The download link is directing to the repo's latest release.**
 
@@ -183,7 +183,7 @@ _with Stalky & OnlineNotify_
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
 | 236.1 | 3.7.42 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.7.42-Instagram236.1/Instagram236.1_Rocket3.7.42.ipa) |
-| 283.0 | 3.8.8 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Instagram283.0_Rocket3.8.8.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Instagram283.0_Rocket3.8.8TS.ipa) |
+| 288.0 | 3.8.8 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/21.jun.23/Instagram288.0_Rocket3.8.8.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/21.jun.23/Instagram288.0_Rocket3.8.8TS.ipa) |
 
 **Note: Instagram v236.1 with Rocket v3.7.42 are the latest versions without the annoying pop up when downloading stuff.**
 
@@ -216,7 +216,7 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 283.0 | 2.50 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Instagram283.0_Plus2.50.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Instagram283.0_Plus2.50TS.ipa) |
+| 288.0 | 2.50 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/21.jun.23/Instagram288.0_Plus2.50.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/21.jun.23/Instagram288.0_Plus2.50TS.ipa) |
 
 **Note: You can dismiss compatibility checker when first opening the app.**
 

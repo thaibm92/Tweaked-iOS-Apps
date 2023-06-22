@@ -1,3 +1,11 @@
+**21/jun/23**
+- Twitter | BHTwitter updated to v9.63 | v3.9.1.
+- Youtube Music | YTMusicUltimate updated to v6.06.3 | v1.4.1.
+- Instagram | Rocket updated to v288.0 | v3.8.8.
+- Instagram | Plus updated to v288.0 | v2.50.
+
+---
+
 **12/jun/23**
 - Twitter | BHTwitter updated to v9.61 | v3.9.1.
 - Youtube Music | YTMusicUltimate updated to v6.05.1 | v1.4.1.
